@@ -1,0 +1,23 @@
+{
+  "name": "scrap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "cheerio": "^1.1.2",
+    "csv-parser": "^3.2.0",
+    "csv-writer": "^1.6.0",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^3.1.10",
+    "puppeteer": "^24.17.0",
+    "scraperapi-sdk": "^2.0.1",
+    "string-similarity": "^4.0.4"
+  }
+}

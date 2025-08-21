@@ -1,0 +1,20 @@
+Athletic Club -> Ath Bilbao
+Getafe -> Getafe
+Betis -> Betis
+Celta Vigo -> Celta
+Girona -> Girona
+Alavés -> Alaves
+Las palmas -> Las palmas
+Sevilla -> Sevilla
+Osasuna -> Osasuna
+Valencia -> Valencia
+Barcelona -> Barcelona
+Leganés -> Leganes
+Real Sociedad -> Sociedad
+Rayo Vallecano -> Vallecano
+Valladolid -> Valladolid
+Espanyol -> Espanol 
+Villarreal -> Villarreal
+Atlético Madrid -> Ath Madrid 
+Mallorca -> Mallorca
+Real Madrid -> Real Madrid

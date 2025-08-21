@@ -11770,7 +11770,11 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Robert Lewandowski",
+                "Robert Lewandowski",
+                "Dani Olmo"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Ernesto Valverde",

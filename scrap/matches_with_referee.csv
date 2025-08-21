@@ -96,7 +96,7 @@ SP1,2024-25,2024-10-19,Girona,Sociedad,0,1,A,8,14,3,4,,Míchel,Imanol Alguacil,
 SP1,2024-25,2024-10-19,Celta,Real Madrid,1,2,A,13,10,5,3,,Claudio Giráldez,Carlo Ancelotti,
 SP1,2024-25,2024-10-20,Mallorca,Vallecano,1,0,H,19,10,5,2,,Jagoba Arrasate,Iñigo Pérez,
 SP1,2024-25,2024-10-20,Ath Madrid,Leganes,3,1,H,24,5,9,2,,Diego Simeone,Borja Jiménez,
-SP1,2024-25,2024-10-20,Villarreal,Getafe,1,1,D,10,21,4,4,,Marcelino,José Bordalás,Víctor García
+SP1,2024-25,2024-10-20,Villarreal,Getafe,1,1,D,10,21,4,4,,Marcelino,José Bordalás,
 SP1,2024-25,2024-10-20,Barcelona,Sevilla,5,1,H,21,7,9,1,,Hansi Flick,Joaquín Caparrós,
 SP1,2024-25,2024-10-21,Valencia,Las Palmas,2,3,A,14,11,7,6,,Carlos Corberán,Diego Martínez,
 SP1,2024-25,2024-10-25,Espanol,Sevilla,0,2,A,16,6,1,3,,Manolo González,Joaquín Caparrós,
@@ -229,153 +229,153 @@ SP1,2024-25,2025-02-09,Valencia,Leganes,2,0,H,18,12,4,4,,Carlos Corberán,Borja 
 SP1,2024-25,2025-02-09,Sociedad,Espanol,2,1,H,13,4,3,1,,Imanol Alguacil,Manolo González,
 SP1,2024-25,2025-02-09,Sevilla,Barcelona,1,4,A,8,10,4,6,,Joaquín Caparrós,Hansi Flick,
 SP1,2024-25,2025-02-10,Mallorca,Osasuna,1,1,D,10,19,2,4,,Jagoba Arrasate,Vicente Moreno,
-SP1,2024-25,2025-02-14,Girona,Getafe,1,2,A,14,10,4,6,,Míchel,José Bordalás,
-SP1,2024-25,2025-02-15,Leganes,Alaves,3,3,D,8,16,3,7,,Borja Jiménez,Eduardo Coudet,
-SP1,2024-25,2025-02-15,Osasuna,Real Madrid,1,1,D,11,17,4,6,,Vicente Moreno,Carlo Ancelotti,
-SP1,2024-25,2025-02-15,Ath Madrid,Celta,1,1,D,9,11,3,4,,Diego Simeone,Claudio Giráldez,
-SP1,2024-25,2025-02-15,Villarreal,Valencia,1,1,D,13,12,4,3,,Marcelino,Carlos Corberán,
-SP1,2024-25,2025-02-16,Espanol,Ath Bilbao,1,1,D,12,14,4,4,,Manolo González,Ernesto Valverde,
-SP1,2024-25,2025-02-16,Valladolid,Sevilla,0,4,A,7,11,2,6,,Álvaro Rubio,Joaquín Caparrós,
-SP1,2024-25,2025-02-16,Mallorca,Las Palmas,3,1,H,14,9,5,4,,Jagoba Arrasate,Diego Martínez,
-SP1,2024-25,2025-02-16,Betis,Sociedad,3,0,H,24,5,8,1,,Manuel Pellegrini,Imanol Alguacil,
-SP1,2024-25,2025-02-17,Barcelona,Vallecano,1,0,H,14,9,5,4,,Hansi Flick,Iñigo Pérez,
-SP1,2024-25,2025-02-21,Celta,Osasuna,1,0,H,12,18,5,1,,Claudio Giráldez,Vicente Moreno,
-SP1,2024-25,2025-02-22,Alaves,Espanol,0,1,A,15,9,5,2,,Eduardo Coudet,Manolo González,
-SP1,2024-25,2025-02-22,Vallecano,Villarreal,0,1,A,10,10,5,5,,Iñigo Pérez,Marcelino,
-SP1,2024-25,2025-02-22,Valencia,Ath Madrid,0,3,A,18,11,2,3,,Carlos Corberán,Diego Simeone,
-SP1,2024-25,2025-02-22,Las Palmas,Barcelona,0,2,A,10,15,2,5,,Diego Martínez,Hansi Flick,
-SP1,2024-25,2025-02-23,Ath Bilbao,Valladolid,7,1,H,29,5,16,3,,Ernesto Valverde,Álvaro Rubio,
-SP1,2024-25,2025-02-23,Real Madrid,Girona,2,0,H,22,6,5,2,,Carlo Ancelotti,Míchel,
-SP1,2024-25,2025-02-23,Getafe,Betis,1,2,A,10,13,4,6,,José Bordalás,Manuel Pellegrini,
-SP1,2024-25,2025-02-23,Sociedad,Leganes,3,0,H,12,8,5,2,,Imanol Alguacil,Borja Jiménez,
-SP1,2024-25,2025-02-24,Sevilla,Mallorca,1,1,D,19,13,4,2,,Joaquín Caparrós,Jagoba Arrasate,
-SP1,2024-25,2025-02-28,Valladolid,Las Palmas,1,1,D,23,4,7,3,,Álvaro Rubio,Diego Martínez,
-SP1,2024-25,2025-03-01,Girona,Celta,2,2,D,9,10,6,6,,Míchel,Claudio Giráldez,
-SP1,2024-25,2025-03-01,Vallecano,Sevilla,1,1,D,20,10,8,5,,Iñigo Pérez,Joaquín Caparrós,
-SP1,2024-25,2025-03-01,Betis,Real Madrid,2,1,H,18,9,3,2,,Manuel Pellegrini,Carlo Ancelotti,
-SP1,2024-25,2025-03-01,Ath Madrid,Ath Bilbao,1,0,H,12,15,4,3,,Diego Simeone,Ernesto Valverde,
-SP1,2024-25,2025-03-02,Leganes,Getafe,1,0,H,5,9,1,0,,Borja Jiménez,José Bordalás,
-SP1,2024-25,2025-03-02,Barcelona,Sociedad,4,0,H,33,0,10,0,,Hansi Flick,Imanol Alguacil,
-SP1,2024-25,2025-03-02,Mallorca,Alaves,1,1,D,15,19,4,7,,Jagoba Arrasate,Eduardo Coudet,
-SP1,2024-25,2025-03-02,Osasuna,Valencia,3,3,D,12,12,5,5,,Vicente Moreno,Carlos Corberán,
-SP1,2024-25,2025-03-08,Celta,Leganes,2,1,H,7,12,4,6,,Claudio Giráldez,Borja Jiménez,
-SP1,2024-25,2025-03-08,Alaves,Villarreal,1,0,H,5,24,3,2,,Eduardo Coudet,Marcelino,
-SP1,2024-25,2025-03-08,Valencia,Valladolid,2,1,H,17,11,4,4,,Carlos Corberán,Álvaro Rubio,
-SP1,2024-25,2025-03-09,Getafe,Ath Madrid,2,1,H,11,4,3,2,,José Bordalás,Diego Simeone,
-SP1,2024-25,2025-03-09,Real Madrid,Vallecano,2,1,H,10,20,5,6,,Carlo Ancelotti,Iñigo Pérez,
-SP1,2024-25,2025-03-09,Ath Bilbao,Mallorca,1,1,D,8,9,2,2,,Ernesto Valverde,Jagoba Arrasate,
-SP1,2024-25,2025-03-09,Betis,Las Palmas,1,0,H,14,8,6,1,,Manuel Pellegrini,Diego Martínez,
-SP1,2024-25,2025-03-09,Sociedad,Sevilla,0,1,A,7,9,2,4,,Imanol Alguacil,Joaquín Caparrós,
-SP1,2024-25,2025-03-10,Espanol,Girona,1,1,D,7,18,4,4,,Manolo González,Míchel,
-SP1,2024-25,2025-03-14,Las Palmas,Alaves,2,2,D,14,9,7,3,,Diego Martínez,Eduardo Coudet,
-SP1,2024-25,2025-03-15,Valladolid,Celta,0,1,A,5,10,2,1,,Álvaro Rubio,Claudio Giráldez,
-SP1,2024-25,2025-03-15,Mallorca,Espanol,2,1,H,20,2,7,0,,Jagoba Arrasate,Manolo González,
-SP1,2024-25,2025-03-15,Villarreal,Real Madrid,1,2,A,23,9,10,5,,Marcelino,Carlo Ancelotti,
-SP1,2024-25,2025-03-15,Girona,Valencia,1,1,D,14,12,4,2,,Míchel,Carlos Corberán,
-SP1,2024-25,2025-03-16,Leganes,Betis,2,3,A,10,21,4,6,,Borja Jiménez,Manuel Pellegrini,
-SP1,2024-25,2025-03-16,Sevilla,Ath Bilbao,0,1,A,11,9,4,4,,Joaquín Caparrós,Ernesto Valverde,
-SP1,2024-25,2025-03-16,Osasuna,Getafe,1,2,A,12,7,4,4,,Vicente Moreno,José Bordalás,
-SP1,2024-25,2025-03-16,Vallecano,Sociedad,2,2,D,10,8,5,4,,Iñigo Pérez,Imanol Alguacil,
-SP1,2024-25,2025-03-16,Ath Madrid,Barcelona,2,4,A,7,13,2,6,,Diego Simeone,Hansi Flick,
-SP1,2024-25,2025-03-27,Barcelona,Osasuna,3,0,H,19,4,5,0,,Hansi Flick,Vicente Moreno,
-SP1,2024-25,2025-03-29,Sociedad,Valladolid,2,1,H,12,12,2,5,,Imanol Alguacil,Álvaro Rubio,
-SP1,2024-25,2025-03-29,Espanol,Ath Madrid,1,1,D,8,13,1,2,,Manolo González,Diego Simeone,
-SP1,2024-25,2025-03-29,Alaves,Vallecano,0,2,A,12,11,4,5,,Eduardo Coudet,Iñigo Pérez,
-SP1,2024-25,2025-03-29,Real Madrid,Leganes,3,2,H,24,10,10,4,,Carlo Ancelotti,Borja Jiménez,
-SP1,2024-25,2025-03-30,Getafe,Villarreal,1,2,A,11,9,4,3,,José Bordalás,Marcelino,
-SP1,2024-25,2025-03-30,Barcelona,Girona,4,1,H,21,4,9,2,,Hansi Flick,Míchel,
-SP1,2024-25,2025-03-30,Ath Bilbao,Osasuna,0,0,D,11,5,5,2,,Ernesto Valverde,Vicente Moreno,
-SP1,2024-25,2025-03-30,Valencia,Mallorca,1,0,H,8,8,2,2,,Carlos Corberán,Jagoba Arrasate,
-SP1,2024-25,2025-03-30,Betis,Sevilla,2,1,H,11,6,3,2,,Manuel Pellegrini,Joaquín Caparrós,
-SP1,2024-25,2025-03-31,Celta,Las Palmas,1,1,D,19,4,7,2,,Claudio Giráldez,Diego Martínez,
-SP1,2024-25,2025-04-04,Vallecano,Espanol,0,4,A,16,15,5,7,,Iñigo Pérez,Manolo González,
-SP1,2024-25,2025-04-05,Girona,Alaves,0,1,A,11,14,6,3,,Míchel,Eduardo Coudet,
-SP1,2024-25,2025-04-05,Real Madrid,Valencia,1,2,A,21,10,9,2,,Carlo Ancelotti,Carlos Corberán,
-SP1,2024-25,2025-04-05,Mallorca,Celta,1,2,A,7,10,2,4,,Jagoba Arrasate,Claudio Giráldez,
-SP1,2024-25,2025-04-05,Barcelona,Betis,1,1,D,13,6,5,2,,Hansi Flick,Manuel Pellegrini,
-SP1,2024-25,2025-04-06,Las Palmas,Sociedad,1,3,A,13,13,5,8,,Diego Martínez,Imanol Alguacil,
-SP1,2024-25,2025-04-06,Sevilla,Ath Madrid,1,2,A,11,13,6,5,,Joaquín Caparrós,Diego Simeone,
-SP1,2024-25,2025-04-06,Valladolid,Getafe,0,4,A,5,16,0,9,,Álvaro Rubio,José Bordalás,
-SP1,2024-25,2025-04-06,Villarreal,Ath Bilbao,0,0,D,12,11,4,2,,Marcelino,Ernesto Valverde,
-SP1,2024-25,2025-04-07,Leganes,Osasuna,1,1,D,13,14,7,6,,Borja Jiménez,Vicente Moreno,
-SP1,2024-25,2025-04-11,Valencia,Sevilla,1,0,H,8,12,6,5,,Carlos Corberán,Joaquín Caparrós,
-SP1,2024-25,2025-04-12,Sociedad,Mallorca,0,2,A,15,7,4,3,,Imanol Alguacil,Jagoba Arrasate,
-SP1,2024-25,2025-04-12,Getafe,Las Palmas,1,3,A,11,10,6,5,,José Bordalás,Diego Martínez,
-SP1,2024-25,2025-04-12,Celta,Espanol,0,2,A,16,5,6,3,,Claudio Giráldez,Manolo González,
-SP1,2024-25,2025-04-12,Leganes,Barcelona,0,1,A,6,12,1,3,,Borja Jiménez,Hansi Flick,
-SP1,2024-25,2025-04-13,Osasuna,Girona,2,1,H,13,18,6,8,,Vicente Moreno,Míchel,
-SP1,2024-25,2025-04-13,Alaves,Real Madrid,0,1,A,13,11,6,4,,Eduardo Coudet,Carlo Ancelotti,
-SP1,2024-25,2025-04-13,Betis,Villarreal,1,2,A,24,8,5,2,,Manuel Pellegrini,Marcelino,
-SP1,2024-25,2025-04-13,Ath Bilbao,Vallecano,3,1,H,13,11,4,3,,Ernesto Valverde,Iñigo Pérez,
-SP1,2024-25,2025-04-14,Ath Madrid,Valladolid,4,2,H,24,6,9,3,,Diego Simeone,Álvaro Rubio,
-SP1,2024-25,2025-04-18,Espanol,Getafe,1,0,H,9,9,3,4,,Manolo González,José Bordalás,
-SP1,2024-25,2025-04-19,Vallecano,Valencia,1,1,D,11,10,4,3,,Iñigo Pérez,Carlos Corberán,
-SP1,2024-25,2025-04-19,Barcelona,Celta,4,3,H,18,11,6,8,,Hansi Flick,Claudio Giráldez,
-SP1,2024-25,2025-04-19,Mallorca,Leganes,0,0,D,11,15,1,1,,Jagoba Arrasate,Borja Jiménez,
-SP1,2024-25,2025-04-19,Las Palmas,Ath Madrid,1,0,H,8,7,2,2,,Diego Martínez,Diego Simeone,
-SP1,2024-25,2025-04-20,Valladolid,Osasuna,2,3,A,12,11,5,6,,Álvaro Rubio,Vicente Moreno,
-SP1,2024-25,2025-04-20,Villarreal,Sociedad,2,2,D,20,4,5,4,,Marcelino,Imanol Alguacil,
-SP1,2024-25,2025-04-20,Sevilla,Alaves,1,1,D,10,11,2,3,,Joaquín Caparrós,Eduardo Coudet,
-SP1,2024-25,2025-04-20,Real Madrid,Ath Bilbao,1,0,H,22,3,7,1,,Carlo Ancelotti,Ernesto Valverde,
-SP1,2024-25,2025-04-21,Girona,Betis,1,3,A,11,17,5,9,,Míchel,Manuel Pellegrini,
-SP1,2024-25,2025-04-22,Valencia,Espanol,1,1,D,16,8,7,3,,Carlos Corberán,Manolo González,
-SP1,2024-25,2025-04-22,Barcelona,Mallorca,1,0,H,40,4,13,0,,Hansi Flick,Jagoba Arrasate,
-SP1,2024-25,2025-04-23,Ath Bilbao,Las Palmas,1,0,H,13,10,4,2,,Ernesto Valverde,Diego Martínez,
-SP1,2024-25,2025-04-23,Celta,Villarreal,3,0,H,21,4,9,1,,Claudio Giráldez,Marcelino,
-SP1,2024-25,2025-04-23,Alaves,Sociedad,1,0,H,10,6,1,0,,Eduardo Coudet,Imanol Alguacil,
-SP1,2024-25,2025-04-23,Getafe,Real Madrid,0,1,A,20,14,6,7,,José Bordalás,Carlo Ancelotti,
-SP1,2024-25,2025-04-24,Leganes,Girona,1,1,D,7,8,1,3,,Borja Jiménez,Míchel,
-SP1,2024-25,2025-04-24,Osasuna,Sevilla,1,0,H,9,12,2,3,,Vicente Moreno,Joaquín Caparrós,
-SP1,2024-25,2025-04-24,Ath Madrid,Vallecano,3,0,H,10,12,5,5,,Diego Simeone,Iñigo Pérez,
-SP1,2024-25,2025-04-24,Betis,Valladolid,5,1,H,16,10,6,5,,Manuel Pellegrini,Álvaro Rubio,
-SP1,2024-25,2025-04-27,Villarreal,Espanol,1,0,H,14,12,5,1,,Marcelino,Manolo González,
-SP1,2024-25,2025-05-02,Vallecano,Getafe,1,0,H,13,12,8,1,,Iñigo Pérez,José Bordalás,
-SP1,2024-25,2025-05-03,Alaves,Ath Madrid,0,0,D,8,9,2,2,,Eduardo Coudet,Diego Simeone,
-SP1,2024-25,2025-05-03,Villarreal,Osasuna,4,2,H,15,11,5,4,,Marcelino,Vicente Moreno,
-SP1,2024-25,2025-05-03,Las Palmas,Valencia,2,3,A,15,10,3,5,,Diego Martínez,Carlos Corberán,
-SP1,2024-25,2025-05-03,Valladolid,Barcelona,1,2,A,5,24,4,7,,Álvaro Rubio,Hansi Flick,
-SP1,2024-25,2025-05-04,Real Madrid,Celta,3,2,H,17,14,6,7,,Carlo Ancelotti,Claudio Giráldez,
-SP1,2024-25,2025-05-04,Sevilla,Leganes,2,2,D,25,9,7,3,,Joaquín Caparrós,Borja Jiménez,
-SP1,2024-25,2025-05-04,Espanol,Betis,1,2,A,11,20,5,10,,Manolo González,Manuel Pellegrini,
-SP1,2024-25,2025-05-04,Sociedad,Ath Bilbao,0,0,D,12,3,3,1,,Imanol Alguacil,Ernesto Valverde,
-SP1,2024-25,2025-05-05,Girona,Mallorca,1,0,H,13,9,6,1,,Míchel,Jagoba Arrasate,
-SP1,2024-25,2025-05-09,Las Palmas,Vallecano,0,1,A,11,16,2,5,,Diego Martínez,Iñigo Pérez,
-SP1,2024-25,2025-05-10,Valencia,Getafe,3,0,H,10,10,6,3,,Carlos Corberán,José Bordalás,
-SP1,2024-25,2025-05-10,Celta,Sevilla,3,2,H,8,19,4,10,,Claudio Giráldez,Joaquín Caparrós,
-SP1,2024-25,2025-05-10,Girona,Villarreal,0,1,A,7,14,0,5,,Míchel,Marcelino,
-SP1,2024-25,2025-05-10,Mallorca,Valladolid,2,1,H,12,16,4,7,,Jagoba Arrasate,Álvaro Rubio,
-SP1,2024-25,2025-05-10,Ath Madrid,Sociedad,4,0,H,13,6,7,1,,Diego Simeone,Imanol Alguacil,
-SP1,2024-25,2025-05-11,Leganes,Espanol,3,2,H,13,12,5,6,,Borja Jiménez,Manolo González,
-SP1,2024-25,2025-05-11,Barcelona,Real Madrid,4,3,H,23,9,9,5,,Hansi Flick,Carlo Ancelotti,
-SP1,2024-25,2025-05-11,Ath Bilbao,Alaves,1,0,H,11,4,3,1,,Ernesto Valverde,Eduardo Coudet,
-SP1,2024-25,2025-05-11,Betis,Osasuna,1,1,D,10,16,5,5,,Manuel Pellegrini,Vicente Moreno,
-SP1,2024-25,2025-05-13,Valladolid,Girona,0,1,A,11,13,4,5,,Álvaro Rubio,Míchel,
-SP1,2024-25,2025-05-13,Sociedad,Celta,0,1,A,15,6,5,2,,Imanol Alguacil,Claudio Giráldez,
-SP1,2024-25,2025-05-13,Sevilla,Las Palmas,1,0,H,10,14,3,3,,Joaquín Caparrós,Diego Martínez,
-SP1,2024-25,2025-05-14,Alaves,Valencia,1,0,H,11,10,5,3,,Eduardo Coudet,Carlos Corberán,
-SP1,2024-25,2025-05-14,Villarreal,Leganes,3,0,H,17,23,7,6,,Marcelino,Borja Jiménez,
-SP1,2024-25,2025-05-14,Real Madrid,Mallorca,2,1,H,39,4,13,2,,Carlo Ancelotti,Jagoba Arrasate,
-SP1,2024-25,2025-05-15,Vallecano,Betis,2,2,D,20,10,6,3,,Iñigo Pérez,Manuel Pellegrini,
-SP1,2024-25,2025-05-15,Osasuna,Ath Madrid,2,0,H,9,9,3,5,,Vicente Moreno,Diego Simeone,
-SP1,2024-25,2025-05-15,Espanol,Barcelona,0,2,A,9,12,1,4,,Manolo González,Hansi Flick,
-SP1,2024-25,2025-05-15,Getafe,Ath Bilbao,0,2,A,11,9,1,2,,José Bordalás,Ernesto Valverde,
-SP1,2024-25,2025-05-18,Ath Madrid,Betis,4,1,H,20,12,11,7,,Diego Simeone,Manuel Pellegrini,
-SP1,2024-25,2025-05-18,Barcelona,Villarreal,2,3,A,24,7,9,3,,Hansi Flick,Marcelino,
-SP1,2024-25,2025-05-18,Celta,Vallecano,1,2,A,24,7,7,2,,Claudio Giráldez,Iñigo Pérez,
-SP1,2024-25,2025-05-18,Las Palmas,Leganes,0,1,A,12,11,3,4,,Diego Martínez,Borja Jiménez,
-SP1,2024-25,2025-05-18,Mallorca,Getafe,1,2,A,7,10,1,4,,Jagoba Arrasate,José Bordalás,
-SP1,2024-25,2025-05-18,Osasuna,Espanol,2,0,H,16,16,3,6,,Vicente Moreno,Manolo González,
-SP1,2024-25,2025-05-18,Sevilla,Real Madrid,0,2,A,6,16,1,6,,Joaquín Caparrós,Carlo Ancelotti,
-SP1,2024-25,2025-05-18,Sociedad,Girona,3,2,H,15,9,9,5,,Imanol Alguacil,Míchel,
-SP1,2024-25,2025-05-18,Valencia,Ath Bilbao,0,1,A,6,10,2,4,,Carlos Corberán,Ernesto Valverde,
-SP1,2024-25,2025-05-18,Valladolid,Alaves,0,1,A,7,14,1,4,,Álvaro Rubio,Eduardo Coudet,
-SP1,2024-25,2025-05-23,Betis,Valencia,1,1,D,14,9,4,2,,Manuel Pellegrini,Carlos Corberán,
-SP1,2024-25,2025-05-24,Real Madrid,Sociedad,2,0,H,16,9,8,1,,Carlo Ancelotti,Imanol Alguacil,
-SP1,2024-25,2025-05-24,Espanol,Las Palmas,2,0,H,8,10,3,4,,Manolo González,Diego Martínez,
-SP1,2024-25,2025-05-24,Leganes,Valladolid,3,0,H,16,6,6,2,,Borja Jiménez,Álvaro Rubio,
-SP1,2024-25,2025-05-24,Alaves,Osasuna,1,1,D,14,19,5,5,,Eduardo Coudet,Vicente Moreno,
-SP1,2024-25,2025-05-24,Getafe,Celta,1,2,A,6,15,1,8,,José Bordalás,Claudio Giráldez,
-SP1,2024-25,2025-05-24,Vallecano,Mallorca,0,0,D,27,9,8,2,,Iñigo Pérez,Jagoba Arrasate,
-SP1,2024-25,2025-05-25,Girona,Ath Madrid,0,4,A,2,19,1,11,,Míchel,Diego Simeone,
-SP1,2024-25,2025-05-25,Villarreal,Sevilla,4,2,H,12,17,7,6,,Marcelino,Joaquín Caparrós,
-SP1,2024-25,2025-05-25,Ath Bilbao,Barcelona,0,3,A,10,13,1,4,,Ernesto Valverde,Hansi Flick,
+SP1,2024-25,2025-02-14,Girona,Getafe,1,2,A,14,10,4,6,,Míchel,José Bordalás,Alejandro Quintero
+SP1,2024-25,2025-02-15,Leganes,Alaves,3,3,D,8,16,3,7,,Borja Jiménez,Eduardo Coudet,Pablo González
+SP1,2024-25,2025-02-15,Osasuna,Real Madrid,1,1,D,11,17,4,6,,Vicente Moreno,Carlo Ancelotti,José Luis Munuera
+SP1,2024-25,2025-02-15,Ath Madrid,Celta,1,1,D,9,11,3,4,,Diego Simeone,Claudio Giráldez,Juan Martínez
+SP1,2024-25,2025-02-15,Villarreal,Valencia,1,1,D,13,12,4,3,,Marcelino,Carlos Corberán,Ricardo de Burgos
+SP1,2024-25,2025-02-16,Espanol,Ath Bilbao,1,1,D,12,14,4,4,,Manolo González,Ernesto Valverde,Guillermo Cuadra
+SP1,2024-25,2025-02-16,Valladolid,Sevilla,0,4,A,7,11,2,6,,Álvaro Rubio,Joaquín Caparrós,Javier Alberola
+SP1,2024-25,2025-02-16,Mallorca,Las Palmas,3,1,H,14,9,5,4,,Jagoba Arrasate,Diego Martínez,Miguel Ángel Ortiz Arias
+SP1,2024-25,2025-02-16,Betis,Sociedad,3,0,H,24,5,8,1,,Manuel Pellegrini,Imanol Alguacil,Jesús Gil
+SP1,2024-25,2025-02-17,Barcelona,Vallecano,1,0,H,14,9,5,4,,Hansi Flick,Iñigo Pérez,Mario Melero
+SP1,2024-25,2025-02-21,Celta,Osasuna,1,0,H,12,18,5,1,,Claudio Giráldez,Vicente Moreno,Jose Maria Sánchez
+SP1,2024-25,2025-02-22,Alaves,Espanol,0,1,A,15,9,5,2,,Eduardo Coudet,Manolo González,Juan Pulido
+SP1,2024-25,2025-02-22,Vallecano,Villarreal,0,1,A,10,10,5,5,,Iñigo Pérez,Marcelino,Víctor García
+SP1,2024-25,2025-02-22,Valencia,Ath Madrid,0,3,A,18,11,2,3,,Carlos Corberán,Diego Simeone,Mateo Busquets
+SP1,2024-25,2025-02-22,Las Palmas,Barcelona,0,2,A,10,15,2,5,,Diego Martínez,Hansi Flick,Adrián Cordero
+SP1,2024-25,2025-02-23,Ath Bilbao,Valladolid,7,1,H,29,5,16,3,,Ernesto Valverde,Álvaro Rubio,César Soto
+SP1,2024-25,2025-02-23,Real Madrid,Girona,2,0,H,22,6,5,2,,Carlo Ancelotti,Míchel,Guillermo Cuadra
+SP1,2024-25,2025-02-23,Getafe,Betis,1,2,A,10,13,4,6,,José Bordalás,Manuel Pellegrini,Javier Alberola
+SP1,2024-25,2025-02-23,Sociedad,Leganes,3,0,H,12,8,5,2,,Imanol Alguacil,Borja Jiménez,Francisco Hernández
+SP1,2024-25,2025-02-24,Sevilla,Mallorca,1,1,D,19,13,4,2,,Joaquín Caparrós,Jagoba Arrasate,Alejandro Muñíz
+SP1,2024-25,2025-02-28,Valladolid,Las Palmas,1,1,D,23,4,7,3,,Álvaro Rubio,Diego Martínez,Ricardo de Burgos
+SP1,2024-25,2025-03-01,Girona,Celta,2,2,D,9,10,6,6,,Míchel,Claudio Giráldez,Miguel Ángel Ortiz Arias
+SP1,2024-25,2025-03-01,Vallecano,Sevilla,1,1,D,20,10,8,5,,Iñigo Pérez,Joaquín Caparrós,Pablo González
+SP1,2024-25,2025-03-01,Betis,Real Madrid,2,1,H,18,9,3,2,,Manuel Pellegrini,Carlo Ancelotti,Alejandro Hernández
+SP1,2024-25,2025-03-01,Ath Madrid,Ath Bilbao,1,0,H,12,15,4,3,,Diego Simeone,Ernesto Valverde,Jesús Gil
+SP1,2024-25,2025-03-02,Leganes,Getafe,1,0,H,5,9,1,0,,Borja Jiménez,José Bordalás,Alejandro Muñíz
+SP1,2024-25,2025-03-02,Barcelona,Sociedad,4,0,H,33,0,10,0,,Hansi Flick,Imanol Alguacil,Alejandro Quintero
+SP1,2024-25,2025-03-02,Mallorca,Alaves,1,1,D,15,19,4,7,,Jagoba Arrasate,Eduardo Coudet,César Soto
+SP1,2024-25,2025-03-02,Osasuna,Valencia,3,3,D,12,12,5,5,,Vicente Moreno,Carlos Corberán,Mario Melero
+SP1,2024-25,2025-03-08,Celta,Leganes,2,1,H,7,12,4,6,,Claudio Giráldez,Borja Jiménez,Isidro Díaz de Mera
+SP1,2024-25,2025-03-08,Alaves,Villarreal,1,0,H,5,24,3,2,,Eduardo Coudet,Marcelino,Miguel Ángel Ortiz Arias
+SP1,2024-25,2025-03-08,Valencia,Valladolid,2,1,H,17,11,4,4,,Carlos Corberán,Álvaro Rubio,Juan Pulido
+SP1,2024-25,2025-03-09,Getafe,Ath Madrid,2,1,H,11,4,3,2,,José Bordalás,Diego Simeone,Guillermo Cuadra
+SP1,2024-25,2025-03-09,Real Madrid,Vallecano,2,1,H,10,20,5,6,,Carlo Ancelotti,Iñigo Pérez,Francisco Hernández
+SP1,2024-25,2025-03-09,Ath Bilbao,Mallorca,1,1,D,8,9,2,2,,Ernesto Valverde,Jagoba Arrasate,Alejandro Hernández
+SP1,2024-25,2025-03-09,Betis,Las Palmas,1,0,H,14,8,6,1,,Manuel Pellegrini,Diego Martínez,Jose Maria Sánchez
+SP1,2024-25,2025-03-09,Sociedad,Sevilla,0,1,A,7,9,2,4,,Imanol Alguacil,Joaquín Caparrós,Víctor García
+SP1,2024-25,2025-03-10,Espanol,Girona,1,1,D,7,18,4,4,,Manolo González,Míchel,Adrián Cordero
+SP1,2024-25,2025-03-14,Las Palmas,Alaves,2,2,D,14,9,7,3,,Diego Martínez,Eduardo Coudet,Mario Melero
+SP1,2024-25,2025-03-15,Valladolid,Celta,0,1,A,5,10,2,1,,Álvaro Rubio,Claudio Giráldez,Víctor García
+SP1,2024-25,2025-03-15,Mallorca,Espanol,2,1,H,20,2,7,0,,Jagoba Arrasate,Manolo González,Alejandro Quintero
+SP1,2024-25,2025-03-15,Villarreal,Real Madrid,1,2,A,23,9,10,5,,Marcelino,Carlo Ancelotti,Jesús Gil
+SP1,2024-25,2025-03-15,Girona,Valencia,1,1,D,14,12,4,2,,Míchel,Carlos Corberán,José Luis Munuera
+SP1,2024-25,2025-03-16,Leganes,Betis,2,3,A,10,21,4,6,,Borja Jiménez,Manuel Pellegrini,César Soto
+SP1,2024-25,2025-03-16,Sevilla,Ath Bilbao,0,1,A,11,9,4,4,,Joaquín Caparrós,Ernesto Valverde,Juan Pulido
+SP1,2024-25,2025-03-16,Osasuna,Getafe,1,2,A,12,7,4,4,,Vicente Moreno,José Bordalás,Alejandro Hernández
+SP1,2024-25,2025-03-16,Vallecano,Sociedad,2,2,D,10,8,5,4,,Iñigo Pérez,Imanol Alguacil,Alejandro Muñíz
+SP1,2024-25,2025-03-16,Ath Madrid,Barcelona,2,4,A,7,13,2,6,,Diego Simeone,Hansi Flick,Ricardo de Burgos
+SP1,2024-25,2025-03-27,Barcelona,Osasuna,3,0,H,19,4,5,0,,Hansi Flick,Vicente Moreno,Mateo Busquets
+SP1,2024-25,2025-03-29,Sociedad,Valladolid,2,1,H,12,12,2,5,,Imanol Alguacil,Álvaro Rubio,Adrián Cordero
+SP1,2024-25,2025-03-29,Espanol,Ath Madrid,1,1,D,8,13,1,2,,Manolo González,Diego Simeone,Javier Alberola
+SP1,2024-25,2025-03-29,Alaves,Vallecano,0,2,A,12,11,4,5,,Eduardo Coudet,Iñigo Pérez,José Luis Munuera
+SP1,2024-25,2025-03-29,Real Madrid,Leganes,3,2,H,24,10,10,4,,Carlo Ancelotti,Borja Jiménez,Pablo González
+SP1,2024-25,2025-03-30,Getafe,Villarreal,1,2,A,11,9,4,3,,José Bordalás,Marcelino,Isidro Díaz de Mera
+SP1,2024-25,2025-03-30,Barcelona,Girona,4,1,H,21,4,9,2,,Hansi Flick,Míchel,Juan Pulido
+SP1,2024-25,2025-03-30,Ath Bilbao,Osasuna,0,0,D,11,5,5,2,,Ernesto Valverde,Vicente Moreno,Guillermo Cuadra
+SP1,2024-25,2025-03-30,Valencia,Mallorca,1,0,H,8,8,2,2,,Carlos Corberán,Jagoba Arrasate,Francisco Hernández
+SP1,2024-25,2025-03-30,Betis,Sevilla,2,1,H,11,6,3,2,,Manuel Pellegrini,Joaquín Caparrós,Mateo Busquets
+SP1,2024-25,2025-03-31,Celta,Las Palmas,1,1,D,19,4,7,2,,Claudio Giráldez,Diego Martínez,Juan Martínez
+SP1,2024-25,2025-04-04,Vallecano,Espanol,0,4,A,16,15,5,7,,Iñigo Pérez,Manolo González,Alejandro Hernández
+SP1,2024-25,2025-04-05,Girona,Alaves,0,1,A,11,14,6,3,,Míchel,Eduardo Coudet,Alejandro Muñíz
+SP1,2024-25,2025-04-05,Real Madrid,Valencia,1,2,A,21,10,9,2,,Carlo Ancelotti,Carlos Corberán,Guillermo Cuadra
+SP1,2024-25,2025-04-05,Mallorca,Celta,1,2,A,7,10,2,4,,Jagoba Arrasate,Claudio Giráldez,Ricardo de Burgos
+SP1,2024-25,2025-04-05,Barcelona,Betis,1,1,D,13,6,5,2,,Hansi Flick,Manuel Pellegrini,Jesús Gil
+SP1,2024-25,2025-04-06,Las Palmas,Sociedad,1,3,A,13,13,5,8,,Diego Martínez,Imanol Alguacil,Miguel Ángel Ortiz Arias
+SP1,2024-25,2025-04-06,Sevilla,Ath Madrid,1,2,A,11,13,6,5,,Joaquín Caparrós,Diego Simeone,César Soto
+SP1,2024-25,2025-04-06,Valladolid,Getafe,0,4,A,5,16,0,9,,Álvaro Rubio,José Bordalás,Alejandro Quintero
+SP1,2024-25,2025-04-06,Villarreal,Ath Bilbao,0,0,D,12,11,4,2,,Marcelino,Ernesto Valverde,Mario Melero
+SP1,2024-25,2025-04-07,Leganes,Osasuna,1,1,D,13,14,7,6,,Borja Jiménez,Vicente Moreno,Víctor García
+SP1,2024-25,2025-04-11,Valencia,Sevilla,1,0,H,8,12,6,5,,Carlos Corberán,Joaquín Caparrós,Jose Maria Sánchez
+SP1,2024-25,2025-04-12,Sociedad,Mallorca,0,2,A,15,7,4,3,,Imanol Alguacil,Jagoba Arrasate,José Luis Munuera
+SP1,2024-25,2025-04-12,Getafe,Las Palmas,1,3,A,11,10,6,5,,José Bordalás,Diego Martínez,Javier Alberola
+SP1,2024-25,2025-04-12,Celta,Espanol,0,2,A,16,5,6,3,,Claudio Giráldez,Manolo González,Mateo Busquets
+SP1,2024-25,2025-04-12,Leganes,Barcelona,0,1,A,6,12,1,3,,Borja Jiménez,Hansi Flick,Francisco Hernández
+SP1,2024-25,2025-04-13,Osasuna,Girona,2,1,H,13,18,6,8,,Vicente Moreno,Míchel,Pablo González
+SP1,2024-25,2025-04-13,Alaves,Real Madrid,0,1,A,13,11,6,4,,Eduardo Coudet,Carlo Ancelotti,César Soto
+SP1,2024-25,2025-04-13,Betis,Villarreal,1,2,A,24,8,5,2,,Manuel Pellegrini,Marcelino,Juan Pulido
+SP1,2024-25,2025-04-13,Ath Bilbao,Vallecano,3,1,H,13,11,4,3,,Ernesto Valverde,Iñigo Pérez,Adrián Cordero
+SP1,2024-25,2025-04-14,Ath Madrid,Valladolid,4,2,H,24,6,9,3,,Diego Simeone,Álvaro Rubio,Isidro Díaz de Mera
+SP1,2024-25,2025-04-18,Espanol,Getafe,1,0,H,9,9,3,4,,Manolo González,José Bordalás,Ricardo de Burgos
+SP1,2024-25,2025-04-19,Vallecano,Valencia,1,1,D,11,10,4,3,,Iñigo Pérez,Carlos Corberán,Alejandro Quintero
+SP1,2024-25,2025-04-19,Barcelona,Celta,4,3,H,18,11,6,8,,Hansi Flick,Claudio Giráldez,Mario Melero
+SP1,2024-25,2025-04-19,Mallorca,Leganes,0,0,D,11,15,1,1,,Jagoba Arrasate,Borja Jiménez,Alejandro Muñíz
+SP1,2024-25,2025-04-19,Las Palmas,Ath Madrid,1,0,H,8,7,2,2,,Diego Martínez,Diego Simeone,Víctor García
+SP1,2024-25,2025-04-20,Valladolid,Osasuna,2,3,A,12,11,5,6,,Álvaro Rubio,Vicente Moreno,Jesús Gil
+SP1,2024-25,2025-04-20,Villarreal,Sociedad,2,2,D,20,4,5,4,,Marcelino,Imanol Alguacil,Guillermo Cuadra
+SP1,2024-25,2025-04-20,Sevilla,Alaves,1,1,D,10,11,2,3,,Joaquín Caparrós,Eduardo Coudet,Miguel Ángel Ortiz Arias
+SP1,2024-25,2025-04-20,Real Madrid,Ath Bilbao,1,0,H,22,3,7,1,,Carlo Ancelotti,Ernesto Valverde,Juan Martínez
+SP1,2024-25,2025-04-21,Girona,Betis,1,3,A,11,17,5,9,,Míchel,Manuel Pellegrini,Alejandro Hernández
+SP1,2024-25,2025-04-22,Valencia,Espanol,1,1,D,16,8,7,3,,Carlos Corberán,Manolo González,Juan Pulido
+SP1,2024-25,2025-04-22,Barcelona,Mallorca,1,0,H,40,4,13,0,,Hansi Flick,Jagoba Arrasate,Miguel Ángel Ortiz Arias
+SP1,2024-25,2025-04-23,Ath Bilbao,Las Palmas,1,0,H,13,10,4,2,,Ernesto Valverde,Diego Martínez,Isidro Díaz de Mera
+SP1,2024-25,2025-04-23,Celta,Villarreal,3,0,H,21,4,9,1,,Claudio Giráldez,Marcelino,Javier Alberola
+SP1,2024-25,2025-04-23,Alaves,Sociedad,1,0,H,10,6,1,0,,Eduardo Coudet,Imanol Alguacil,Mateo Busquets
+SP1,2024-25,2025-04-23,Getafe,Real Madrid,0,1,A,20,14,6,7,,José Bordalás,Carlo Ancelotti,Jose Maria Sánchez
+SP1,2024-25,2025-04-24,Leganes,Girona,1,1,D,7,8,1,3,,Borja Jiménez,Míchel,José Luis Munuera
+SP1,2024-25,2025-04-24,Osasuna,Sevilla,1,0,H,9,12,2,3,,Vicente Moreno,Joaquín Caparrós,Adrián Cordero
+SP1,2024-25,2025-04-24,Ath Madrid,Vallecano,3,0,H,10,12,5,5,,Diego Simeone,Iñigo Pérez,Pablo González
+SP1,2024-25,2025-04-24,Betis,Valladolid,5,1,H,16,10,6,5,,Manuel Pellegrini,Álvaro Rubio,Francisco Hernández
+SP1,2024-25,2025-04-27,Villarreal,Espanol,1,0,H,14,12,5,1,,Marcelino,Manolo González,José Luis Munuera
+SP1,2024-25,2025-05-02,Vallecano,Getafe,1,0,H,13,12,8,1,,Iñigo Pérez,José Bordalás,Víctor García
+SP1,2024-25,2025-05-03,Alaves,Ath Madrid,0,0,D,8,9,2,2,,Eduardo Coudet,Diego Simeone,Juan Martínez
+SP1,2024-25,2025-05-03,Villarreal,Osasuna,4,2,H,15,11,5,4,,Marcelino,Vicente Moreno,Alejandro Quintero
+SP1,2024-25,2025-05-03,Las Palmas,Valencia,2,3,A,15,10,3,5,,Diego Martínez,Carlos Corberán,Ricardo de Burgos
+SP1,2024-25,2025-05-03,Valladolid,Barcelona,1,2,A,5,24,4,7,,Álvaro Rubio,Hansi Flick,Alejandro Muñíz
+SP1,2024-25,2025-05-04,Real Madrid,Celta,3,2,H,17,14,6,7,,Carlo Ancelotti,Claudio Giráldez,Jesús Gil
+SP1,2024-25,2025-05-04,Sevilla,Leganes,2,2,D,25,9,7,3,,Joaquín Caparrós,Borja Jiménez,Alejandro Hernández
+SP1,2024-25,2025-05-04,Espanol,Betis,1,2,A,11,20,5,10,,Manolo González,Manuel Pellegrini,Guillermo Cuadra
+SP1,2024-25,2025-05-04,Sociedad,Ath Bilbao,0,0,D,12,3,3,1,,Imanol Alguacil,Ernesto Valverde,César Soto
+SP1,2024-25,2025-05-05,Girona,Mallorca,1,0,H,13,9,6,1,,Míchel,Jagoba Arrasate,Mario Melero
+SP1,2024-25,2025-05-09,Las Palmas,Vallecano,0,1,A,11,16,2,5,,Diego Martínez,Iñigo Pérez,Francisco Hernández
+SP1,2024-25,2025-05-10,Valencia,Getafe,3,0,H,10,10,6,3,,Carlos Corberán,José Bordalás,Adrián Cordero
+SP1,2024-25,2025-05-10,Celta,Sevilla,3,2,H,8,19,4,10,,Claudio Giráldez,Joaquín Caparrós,Pablo González
+SP1,2024-25,2025-05-10,Girona,Villarreal,0,1,A,7,14,0,5,,Míchel,Marcelino,Isidro Díaz de Mera
+SP1,2024-25,2025-05-10,Mallorca,Valladolid,2,1,H,12,16,4,7,,Jagoba Arrasate,Álvaro Rubio,Juan Pulido
+SP1,2024-25,2025-05-10,Ath Madrid,Sociedad,4,0,H,13,6,7,1,,Diego Simeone,Imanol Alguacil,Jose Maria Sánchez
+SP1,2024-25,2025-05-11,Leganes,Espanol,3,2,H,13,12,5,6,,Borja Jiménez,Manolo González,Javier Alberola
+SP1,2024-25,2025-05-11,Barcelona,Real Madrid,4,3,H,23,9,9,5,,Hansi Flick,Carlo Ancelotti,Alejandro Hernández
+SP1,2024-25,2025-05-11,Ath Bilbao,Alaves,1,0,H,11,4,3,1,,Ernesto Valverde,Eduardo Coudet,José Luis Munuera
+SP1,2024-25,2025-05-11,Betis,Osasuna,1,1,D,10,16,5,5,,Manuel Pellegrini,Vicente Moreno,Miguel Ángel Ortiz Arias
+SP1,2024-25,2025-05-13,Valladolid,Girona,0,1,A,11,13,4,5,,Álvaro Rubio,Míchel,Alejandro Quintero
+SP1,2024-25,2025-05-13,Sociedad,Celta,0,1,A,15,6,5,2,,Imanol Alguacil,Claudio Giráldez,Víctor García
+SP1,2024-25,2025-05-13,Sevilla,Las Palmas,1,0,H,10,14,3,3,,Joaquín Caparrós,Diego Martínez,Juan Martínez
+SP1,2024-25,2025-05-14,Alaves,Valencia,1,0,H,11,10,5,3,,Eduardo Coudet,Carlos Corberán,Jesús Gil
+SP1,2024-25,2025-05-14,Villarreal,Leganes,3,0,H,17,23,7,6,,Marcelino,Borja Jiménez,Ricardo de Burgos
+SP1,2024-25,2025-05-14,Real Madrid,Mallorca,2,1,H,39,4,13,2,,Carlo Ancelotti,Jagoba Arrasate,Javier Alberola
+SP1,2024-25,2025-05-15,Vallecano,Betis,2,2,D,20,10,6,3,,Iñigo Pérez,Manuel Pellegrini,Pablo González
+SP1,2024-25,2025-05-15,Osasuna,Ath Madrid,2,0,H,9,9,3,5,,Vicente Moreno,Diego Simeone,Mario Melero
+SP1,2024-25,2025-05-15,Espanol,Barcelona,0,2,A,9,12,1,4,,Manolo González,Hansi Flick,César Soto
+SP1,2024-25,2025-05-15,Getafe,Ath Bilbao,0,2,A,11,9,1,2,,José Bordalás,Ernesto Valverde,Guillermo Cuadra
+SP1,2024-25,2025-05-18,Ath Madrid,Betis,4,1,H,20,12,11,7,,Diego Simeone,Manuel Pellegrini,Adrián Cordero
+SP1,2024-25,2025-05-18,Barcelona,Villarreal,2,3,A,24,7,9,3,,Hansi Flick,Marcelino,José Luis Munuera
+SP1,2024-25,2025-05-18,Celta,Vallecano,1,2,A,24,7,7,2,,Claudio Giráldez,Iñigo Pérez,Juan Pulido
+SP1,2024-25,2025-05-18,Las Palmas,Leganes,0,1,A,12,11,3,4,,Diego Martínez,Borja Jiménez,Jose Maria Sánchez
+SP1,2024-25,2025-05-18,Mallorca,Getafe,1,2,A,7,10,1,4,,Jagoba Arrasate,José Bordalás,Alejandro Hernández
+SP1,2024-25,2025-05-18,Osasuna,Espanol,2,0,H,16,16,3,6,,Vicente Moreno,Manolo González,Francisco Hernández
+SP1,2024-25,2025-05-18,Sevilla,Real Madrid,0,2,A,6,16,1,6,,Joaquín Caparrós,Carlo Ancelotti,Mateo Busquets
+SP1,2024-25,2025-05-18,Sociedad,Girona,3,2,H,15,9,9,5,,Imanol Alguacil,Míchel,Miguel Ángel Ortiz Arias
+SP1,2024-25,2025-05-18,Valencia,Ath Bilbao,0,1,A,6,10,2,4,,Carlos Corberán,Ernesto Valverde,Alejandro Muñíz
+SP1,2024-25,2025-05-18,Valladolid,Alaves,0,1,A,7,14,1,4,,Álvaro Rubio,Eduardo Coudet,Isidro Díaz de Mera
+SP1,2024-25,2025-05-23,Betis,Valencia,1,1,D,14,9,4,2,,Manuel Pellegrini,Carlos Corberán,Víctor García
+SP1,2024-25,2025-05-24,Real Madrid,Sociedad,2,0,H,16,9,8,1,,Carlo Ancelotti,Imanol Alguacil,Mario Melero
+SP1,2024-25,2025-05-24,Espanol,Las Palmas,2,0,H,8,10,3,4,,Manolo González,Diego Martínez,Alejandro Muñíz
+SP1,2024-25,2025-05-24,Leganes,Valladolid,3,0,H,16,6,6,2,,Borja Jiménez,Álvaro Rubio,César Soto
+SP1,2024-25,2025-05-24,Alaves,Osasuna,1,1,D,14,19,5,5,,Eduardo Coudet,Vicente Moreno,Guillermo Cuadra
+SP1,2024-25,2025-05-24,Getafe,Celta,1,2,A,6,15,1,8,,José Bordalás,Claudio Giráldez,Juan Martínez
+SP1,2024-25,2025-05-24,Vallecano,Mallorca,0,0,D,27,9,8,2,,Iñigo Pérez,Jagoba Arrasate,Ricardo de Burgos
+SP1,2024-25,2025-05-25,Girona,Ath Madrid,0,4,A,2,19,1,11,,Míchel,Diego Simeone,Jesús Gil
+SP1,2024-25,2025-05-25,Villarreal,Sevilla,4,2,H,12,17,7,6,,Marcelino,Joaquín Caparrós,Javier Alberola
+SP1,2024-25,2025-05-25,Ath Bilbao,Barcelona,0,3,A,10,13,1,4,,Ernesto Valverde,Hansi Flick,Pablo González

@@ -10,10 +10,10 @@ const app = express();
 const PORT = 5000;
 
 // Paths
-const HTML_FILE = path.resolve('./test.html');
-const MATCHES_CSV = path.resolve('../matches_updated.csv');
+const HTML_FILE = path.resolve('./23_24.html');
+const MATCHES_CSV = path.resolve('../23_24_laliga.csv');
 const OUTPUT_CSV = path.resolve('./matches_with_referee.csv');
-const JSON_FILE = path.resolve('../data/24_25_laliga.json');
+const JSON_FILE = path.resolve('../data/23_24_laliga.json');
 
 // ✅ Team name mapping
 const teamNameMap = {
@@ -36,7 +36,10 @@ const teamNameMap = {
     "Villarreal": "Villarreal",
     "Atlético Madrid": "Ath Madrid",
     "Mallorca": "Mallorca",
-    "Real Madrid": "Real Madrid"
+    "Real Madrid": "Real Madrid",
+    "Almería": "Almeria",
+    "Cádiz": "Cadiz",
+    "Granada": "Granada",
 };
 
 // Normalize function
@@ -174,7 +177,10 @@ app.get('/go', async (req, res) => {
         const end = parseInt(req.query.end) || 10;
         const rows = $('table tbody tr').slice(start-1, end);
 
+        // const rows = $('table tbody tr');
         console.log("Rows to scrape:", rows.length);
+
+        // return res.json({ success: true, message: `Scraping ${rows.length} rows from ${start} to ${end}` });
 
         let scrapedData = [];
 

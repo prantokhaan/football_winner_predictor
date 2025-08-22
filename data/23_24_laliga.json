@@ -18,13 +18,16 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Isaac Palazón Camacho",
+                "Randy Nteka"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Pepe Mel",
             "AwayCoach": "Iñigo Pérez"
         },
-        "Referee": ""
+        "Referee": "Javier Alberola"
     },
     {
         "League": "SP1",
@@ -44,14 +47,19 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Youssef En-Nesyri"
+            ],
+            "AwayScored": [
+                "Mouctar Diakhaby",
+                "Javier Guerra"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Quique Sánchez Flores",
             "AwayCoach": "Rubén Baraja"
         },
-        "Referee": ""
+        "Referee": "José Sánchez"
     },
     {
         "League": "SP1",
@@ -71,14 +79,18 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Takefusa Kubo"
+            ],
+            "AwayScored": [
+                "Artem Dovbyk"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Imanol Alguacil",
             "AwayCoach": "Míchel"
         },
-        "Referee": ""
+        "Referee": "Francisco Hernández"
     },
     {
         "League": "SP1",
@@ -98,14 +110,18 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Jonathan Viera"
+            ],
+            "AwayScored": [
+                "Antonio Raillo"
+            ]
         },
         "Coaches": {
             "HomeCoach": "García Pimienta",
             "AwayCoach": "Javier Aguirre"
         },
-        "Referee": ""
+        "Referee": "Víctor García"
     },
     {
         "League": "SP1",
@@ -126,13 +142,16 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Rodrygo",
+                "Jude Bellingham"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Ernesto Valverde",
             "AwayCoach": "Carlo Ancelotti"
         },
-        "Referee": ""
+        "Referee": "Jesús Gil"
     },
     {
         "League": "SP1",
@@ -153,13 +172,16 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Rubén García",
+                "Moi Gómez"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Claudio Giráldez",
             "AwayCoach": "Jagoba Arrasate"
         },
-        "Referee": ""
+        "Referee": "Pablo González"
     },
     {
         "League": "SP1",
@@ -179,14 +201,19 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Jorge Cuenca"
+            ],
+            "AwayScored": [
+                "Ayoze Pérez",
+                "Willian José"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Marcelino",
             "AwayCoach": "Manuel Pellegrini"
         },
-        "Referee": ""
+        "Referee": "Miguel Ángel Ortiz Arias"
     },
     {
         "League": "SP1",
@@ -213,7 +240,7 @@
             "HomeCoach": "José Bordalás",
             "AwayCoach": "Xavi"
         },
-        "Referee": ""
+        "Referee": "César Soto"
     },
     {
         "League": "SP1",
@@ -233,14 +260,16 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Fede San Emeterio"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Mauricio Pellegrino",
             "AwayCoach": "Luis García"
         },
-        "Referee": ""
+        "Referee": "Isidro Díaz de Mera"
     },
     {
         "League": "SP1",
@@ -260,14 +289,20 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Álvaro Morata",
+                "Memphis",
+                "Marcos Llorente"
+            ],
+            "AwayScored": [
+                "Samu Omorodion"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Diego Simeone",
             "AwayCoach": "José Ramón Sandoval"
         },
-        "Referee": ""
+        "Referee": "Juan Pulido"
     },
     {
         "League": "SP1",
@@ -288,13 +323,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Gerard Moreno"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Javier Aguirre",
             "AwayCoach": "Marcelino"
         },
-        "Referee": ""
+        "Referee": "Javier Alberola"
     },
     {
         "League": "SP1",
@@ -314,14 +351,16 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "José Luis García Vayá"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Rubén Baraja",
             "AwayCoach": "García Pimienta"
         },
-        "Referee": ""
+        "Referee": "Javier Villanueva"
     },
     {
         "League": "SP1",
@@ -341,14 +380,18 @@
             "AwayShotsOnTarget": 6
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Ander Barrenetxea"
+            ],
+            "AwayScored": [
+                "Óscar Mingueza"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Imanol Alguacil",
             "AwayCoach": "Claudio Giráldez"
         },
-        "Referee": ""
+        "Referee": "Miguel Ángel Ortiz Arias"
     },
     {
         "League": "SP1",
@@ -368,14 +411,20 @@
             "AwayShotsOnTarget": 9
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Sergio Arribas"
+            ],
+            "AwayScored": [
+                "Jude Bellingham",
+                "Jude Bellingham",
+                "Vinicius Júnior"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Pepe Mel",
             "AwayCoach": "Carlo Ancelotti"
         },
-        "Referee": ""
+        "Referee": "José Sánchez"
     },
     {
         "League": "SP1",
@@ -396,13 +445,16 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Iñaki Williams",
+                "Gorka Guruzeta"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Jagoba Arrasate",
             "AwayCoach": "Ernesto Valverde"
         },
-        "Referee": ""
+        "Referee": "José Luis Munuera"
     },
     {
         "League": "SP1",
@@ -429,7 +481,7 @@
             "HomeCoach": "Míchel",
             "AwayCoach": "José Bordalás"
         },
-        "Referee": ""
+        "Referee": "Jorge Figueroa"
     },
     {
         "League": "SP1",
@@ -449,14 +501,17 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Pedri",
+                "Ferrán Torres"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Xavi",
             "AwayCoach": "Mauricio Pellegrino"
         },
-        "Referee": ""
+        "Referee": "Alejandro Muñíz"
     },
     {
         "League": "SP1",
@@ -483,7 +538,7 @@
             "HomeCoach": "Manuel Pellegrini",
             "AwayCoach": "Diego Simeone"
         },
-        "Referee": ""
+        "Referee": "Ricardo de Burgos"
     },
     {
         "League": "SP1",
@@ -503,14 +558,22 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Luis Rioja",
+                "Rubén Duarte",
+                "Kiké",
+                "Kiké"
+            ],
+            "AwayScored": [
+                "Érik Lamela",
+                "Rafa Mir"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Luis García",
             "AwayCoach": "Quique Sánchez Flores"
         },
-        "Referee": ""
+        "Referee": "Guillermo Cuadra"
     },
     {
         "League": "SP1",
@@ -531,13 +594,16 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Álvaro García",
+                "Pathé Ciss"
+            ]
         },
         "Coaches": {
             "HomeCoach": "José Ramón Sandoval",
             "AwayCoach": "Iñigo Pérez"
         },
-        "Referee": ""
+        "Referee": "Pablo González"
     },
     {
         "League": "SP1",
@@ -564,7 +630,7 @@
             "HomeCoach": "García Pimienta",
             "AwayCoach": "Imanol Alguacil"
         },
-        "Referee": ""
+        "Referee": "Guillermo Cuadra"
     },
     {
         "League": "SP1",
@@ -585,13 +651,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Jude Bellingham"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Claudio Giráldez",
             "AwayCoach": "Carlo Ancelotti"
         },
-        "Referee": ""
+        "Referee": "Isidro Díaz de\n                                    Mera"
     },
     {
         "League": "SP1",
@@ -611,14 +679,18 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Luis Hernández"
+            ],
+            "AwayScored": [
+                "Kaiky"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Mauricio Pellegrino",
             "AwayCoach": "Pepe Mel"
         },
-        "Referee": ""
+        "Referee": "Víctor García"
     },
     {
         "League": "SP1",
@@ -638,14 +710,21 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Miguel Ángel Rubio",
+                "Bryan Zaragoza",
+                "Myrto Uzuni"
+            ],
+            "AwayScored": [
+                "Abdón Prats",
+                "Samu Costa"
+            ]
         },
         "Coaches": {
             "HomeCoach": "José Ramón Sandoval",
             "AwayCoach": "Javier Aguirre"
         },
-        "Referee": ""
+        "Referee": "Francisco\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -665,14 +744,19 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Nemanja Gudelj"
+            ],
+            "AwayScored": [
+                "Yangel Herrera",
+                "Aleix García"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Quique Sánchez Flores",
             "AwayCoach": "Míchel"
         },
-        "Referee": ""
+        "Referee": "Jesús Gil"
     },
     {
         "League": "SP1",
@@ -692,14 +776,23 @@
             "AwayShotsOnTarget": 11
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Juan Foyth",
+                "Alexander Sørloth",
+                "Alex Baena"
+            ],
+            "AwayScored": [
+                "Gavi",
+                "Frenkie de Jong",
+                "Ferrán Torres",
+                "Robert Lewandowski"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Marcelino",
             "AwayCoach": "Xavi"
         },
-        "Referee": ""
+        "Referee": "Alejandro\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -719,14 +812,19 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Hugo Duro"
+            ],
+            "AwayScored": [
+                "Aimar Oroz",
+                "Nacho Vidal"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Rubén Baraja",
             "AwayCoach": "Jagoba Arrasate"
         },
-        "Referee": ""
+        "Referee": "Juan Pulido"
     },
     {
         "League": "SP1",
@@ -746,14 +844,22 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Mikel Vesga",
+                "Mikel Vesga",
+                "Gorka Guruzeta",
+                "Unai Gómez"
+            ],
+            "AwayScored": [
+                "Willian José",
+                "Isco"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Ernesto Valverde",
             "AwayCoach": "Manuel Pellegrini"
         },
-        "Referee": ""
+        "Referee": "César Soto"
     },
     {
         "League": "SP1",
@@ -773,14 +879,16 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Borja Mayoral"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "José Bordalás",
             "AwayCoach": "Luis García"
         },
-        "Referee": ""
+        "Referee": "Juan Martínez"
     },
     {
         "League": "SP1",
@@ -801,13 +909,21 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Antoine Griezmann",
+                "Memphis",
+                "Nahuel Molina",
+                "Álvaro Morata",
+                "Ángel Correa",
+                "Álvaro Morata",
+                "Marcos Llorente"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Iñigo Pérez",
             "AwayCoach": "Diego Simeone"
         },
-        "Referee": ""
+        "Referee": "José Luis\n                                    Munuera"
     },
     {
         "League": "SP1",
@@ -827,14 +943,20 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Chris Ramos",
+                "Darwin Machís",
+                "Darwin Machís"
+            ],
+            "AwayScored": [
+                "Alexander Sørloth"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Mauricio Pellegrino",
             "AwayCoach": "Marcelino"
         },
-        "Referee": ""
+        "Referee": "Juan Pulido"
     },
     {
         "League": "SP1",
@@ -854,14 +976,21 @@
             "AwayShotsOnTarget": 8
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Sergio Akieme",
+                "Sergio Arribas"
+            ],
+            "AwayScored": [
+                "Unai Núñez",
+                "Jørgen Strand Larsen",
+                "Williot Swedberg"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Pepe Mel",
             "AwayCoach": "Claudio Giráldez"
         },
-        "Referee": ""
+        "Referee": "Ricardo de\n                                    Burgos"
     },
     {
         "League": "SP1",
@@ -881,14 +1010,22 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Takefusa Kubo",
+                "Takefusa Kubo",
+                "Martín Zubimendi",
+                "Ander Barrenetxea"
+            ],
+            "AwayScored": [
+                "Lucas Boyé",
+                "Bryan Zaragoza"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Imanol Alguacil",
             "AwayCoach": "José Ramón Sandoval"
         },
-        "Referee": ""
+        "Referee": "Javier\n                                    Villanueva"
     },
     {
         "League": "SP1",
@@ -908,14 +1045,19 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Joselu",
+                "Jude Bellingham"
+            ],
+            "AwayScored": [
+                "Borja Mayoral"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Carlo Ancelotti",
             "AwayCoach": "José Bordalás"
         },
-        "Referee": ""
+        "Referee": "Mario Melero"
     },
     {
         "League": "SP1",
@@ -942,7 +1084,7 @@
             "HomeCoach": "Luis García",
             "AwayCoach": "Rubén Baraja"
         },
-        "Referee": ""
+        "Referee": "Pablo González"
     },
     {
         "League": "SP1",
@@ -962,14 +1104,16 @@
             "AwayShotsOnTarget": 6
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Willian José"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Manuel Pellegrini",
             "AwayCoach": "Iñigo Pérez"
         },
-        "Referee": ""
+        "Referee": "Alejandro Muñíz"
     },
     {
         "League": "SP1",
@@ -989,14 +1133,16 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Portu"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Míchel",
             "AwayCoach": "García Pimienta"
         },
-        "Referee": ""
+        "Referee": "Mateo Busquets"
     },
     {
         "League": "SP1",
@@ -1023,7 +1169,7 @@
             "HomeCoach": "Javier Aguirre",
             "AwayCoach": "Ernesto Valverde"
         },
-        "Referee": ""
+        "Referee": "Jorge Figueroa"
     },
     {
         "League": "SP1",
@@ -1043,14 +1189,19 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Ezequiel Ávila"
+            ],
+            "AwayScored": [
+                "Jules Koundé",
+                "Robert Lewandowski"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Jagoba Arrasate",
             "AwayCoach": "Xavi"
         },
-        "Referee": ""
+        "Referee": "Miguel\n                                    Ángel Ortiz Arias"
     },
     {
         "League": "SP1",
@@ -1070,14 +1221,17 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Isaac Palazón Camacho",
+                "Jorge de Frutos"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Iñigo Pérez",
             "AwayCoach": "Luis García"
         },
-        "Referee": ""
+        "Referee": "Víctor García"
     },
     {
         "League": "SP1",
@@ -1097,14 +1251,18 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Gorka Guruzeta",
+                "Asier Villalibre",
+                "Iñaki Williams"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Ernesto Valverde",
             "AwayCoach": "Mauricio Pellegrino"
         },
-        "Referee": ""
+        "Referee": "Guillermo Cuadra"
     },
     {
         "League": "SP1",
@@ -1124,14 +1282,18 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Hugo Duro",
+                "Hugo Duro",
+                "Javier Guerra"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Rubén Baraja",
             "AwayCoach": "Diego Simeone"
         },
-        "Referee": ""
+        "Referee": "Jesús Gil"
     },
     {
         "League": "SP1",
@@ -1152,13 +1314,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Vedat Muriqi"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Claudio Giráldez",
             "AwayCoach": "Javier Aguirre"
         },
-        "Referee": ""
+        "Referee": "José Luis\n                                    Munuera"
     },
     {
         "League": "SP1",
@@ -1178,14 +1342,20 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "João Félix",
+                "Robert Lewandowski",
+                "Ferrán Torres",
+                "Raphinha",
+                "João Cancelo"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Xavi",
             "AwayCoach": "Manuel Pellegrini"
         },
-        "Referee": ""
+        "Referee": "José Sánchez"
     },
     {
         "League": "SP1",
@@ -1205,14 +1375,21 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Stefan Mitrović",
+                "Carmona",
+                "Nemanja Maksimović"
+            ],
+            "AwayScored": [
+                "Iker Muñoz",
+                "Ante Budimir"
+            ]
         },
         "Coaches": {
             "HomeCoach": "José Bordalás",
             "AwayCoach": "Jagoba Arrasate"
         },
-        "Referee": ""
+        "Referee": "Alejandro\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -1232,14 +1409,19 @@
             "AwayShotsOnTarget": 7
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Gerard Moreno",
+                "Alexander Sørloth"
+            ],
+            "AwayScored": [
+                "Sergio Akieme"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Marcelino",
             "AwayCoach": "Pepe Mel"
         },
-        "Referee": ""
+        "Referee": "Francisco\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -1259,14 +1441,16 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Dodi Lukebakio"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Quique Sánchez Flores",
             "AwayCoach": "García Pimienta"
         },
-        "Referee": ""
+        "Referee": "Juan Martínez"
     },
     {
         "League": "SP1",
@@ -1286,14 +1470,19 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Federico Valverde",
+                "Joselu"
+            ],
+            "AwayScored": [
+                "Ander Barrenetxea"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Carlo Ancelotti",
             "AwayCoach": "Imanol Alguacil"
         },
-        "Referee": ""
+        "Referee": "César Soto"
     },
     {
         "League": "SP1",
@@ -1313,14 +1502,22 @@
             "AwayShotsOnTarget": 7
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Myrto Uzuni",
+                "Lucas Boyé"
+            ],
+            "AwayScored": [
+                "Viktor Tsyhankov",
+                "Sávio",
+                "David López",
+                "Yan Couto"
+            ]
         },
         "Coaches": {
             "HomeCoach": "José Ramón Sandoval",
             "AwayCoach": "Míchel"
         },
-        "Referee": ""
+        "Referee": "Isidro Díaz de\n                                    Mera"
     },
     {
         "League": "SP1",
@@ -1341,13 +1538,16 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Iñaki Williams",
+                "Oihan Sancet"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Luis García",
             "AwayCoach": "Ernesto Valverde"
         },
-        "Referee": ""
+        "Referee": "Alejandro Muñíz"
     },
     {
         "League": "SP1",
@@ -1367,14 +1567,24 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "David López",
+                "Artem Dovbyk",
+                "Iván Martín",
+                "Yangel Herrera",
+                "Sávio"
+            ],
+            "AwayScored": [
+                "Vedat Muriqi",
+                "Abdón Prats",
+                "Abdón Prats"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Míchel",
             "AwayCoach": "Javier Aguirre"
         },
-        "Referee": ""
+        "Referee": "Pablo González"
     },
     {
         "League": "SP1",
@@ -1401,7 +1611,7 @@
             "HomeCoach": "Jagoba Arrasate",
             "AwayCoach": "Quique Sánchez Flores"
         },
-        "Referee": ""
+        "Referee": "Javier\n                                    Villanueva"
     },
     {
         "League": "SP1",
@@ -1421,14 +1631,21 @@
             "AwayShotsOnTarget": 7
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Robert Lewandowski",
+                "Robert Lewandowski",
+                "João Cancelo"
+            ],
+            "AwayScored": [
+                "Jørgen Strand Larsen",
+                "Anastasios Douvikas"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Xavi",
             "AwayCoach": "Claudio Giráldez"
         },
-        "Referee": ""
+        "Referee": "Mario Melero"
     },
     {
         "League": "SP1",
@@ -1448,14 +1665,20 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Sergio Arribas",
+                "Sergio Arribas"
+            ],
+            "AwayScored": [
+                "Diego López",
+                "Javier Guerra"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Pepe Mel",
             "AwayCoach": "Rubén Baraja"
         },
-        "Referee": ""
+        "Referee": "Mateo Busquets"
     },
     {
         "League": "SP1",
@@ -1475,14 +1698,23 @@
             "AwayShotsOnTarget": 7
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Takefusa Kubo",
+                "Mikel Oyarzabal",
+                "Brais Méndez",
+                "Mikel Oyarzabal"
+            ],
+            "AwayScored": [
+                "Carles Aleñá",
+                "Borja Mayoral",
+                "Juanmi Latasa"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Imanol Alguacil",
             "AwayCoach": "José Bordalás"
         },
-        "Referee": ""
+        "Referee": "Juan Pulido"
     },
     {
         "League": "SP1",
@@ -1502,14 +1734,18 @@
             "AwayShotsOnTarget": 6
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Kike Pérez"
+            ],
+            "AwayScored": [
+                "Alexander Sørloth"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Iñigo Pérez",
             "AwayCoach": "Marcelino"
         },
-        "Referee": ""
+        "Referee": "Jorge Figueroa"
     },
     {
         "League": "SP1",
@@ -1529,14 +1765,18 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Guido Rodríguez"
+            ],
+            "AwayScored": [
+                "Chris Ramos"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Manuel Pellegrini",
             "AwayCoach": "Mauricio Pellegrino"
         },
-        "Referee": ""
+        "Referee": "Miguel\n                                    Ángel Ortiz Arias"
     },
     {
         "League": "SP1",
@@ -1556,14 +1796,16 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Kirian Rodríguez"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "García Pimienta",
             "AwayCoach": "José Ramón Sandoval"
         },
-        "Referee": ""
+        "Referee": "Ricardo de\n                                    Burgos"
     },
     {
         "League": "SP1",
@@ -1583,14 +1825,20 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Álvaro Morata",
+                "Antoine Griezmann",
+                "Álvaro Morata"
+            ],
+            "AwayScored": [
+                "Toni Kroos"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Diego Simeone",
             "AwayCoach": "Carlo Ancelotti"
         },
-        "Referee": ""
+        "Referee": "Javier Alberola"
     },
     {
         "League": "SP1",
@@ -1610,14 +1858,22 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Youssef En-Nesyri",
+                "Dodi Lukebakio",
+                "Suso",
+                "Érik Lamela",
+                "Kike Salas"
+            ],
+            "AwayScored": [
+                "Luis Javier Suárez"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Quique Sánchez Flores",
             "AwayCoach": "Pepe Mel"
         },
-        "Referee": ""
+        "Referee": "Guillermo Cuadra"
     },
     {
         "League": "SP1",
@@ -1637,14 +1893,20 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Vedat Muriqi",
+                "Abdón Prats"
+            ],
+            "AwayScored": [
+                "Raphinha",
+                "Fermin López"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Javier Aguirre",
             "AwayCoach": "Xavi"
         },
-        "Referee": ""
+        "Referee": "Alejandro Muñíz"
     },
     {
         "League": "SP1",
@@ -1664,14 +1926,20 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Yuri Berchiche",
+                "Iñaki Williams"
+            ],
+            "AwayScored": [
+                "Gastón Álvarez",
+                "Juanmi Latasa"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Ernesto Valverde",
             "AwayCoach": "José Bordalás"
         },
-        "Referee": ""
+        "Referee": "Isidro Díaz de\n                                    Mera"
     },
     {
         "League": "SP1",
@@ -1691,14 +1959,17 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Brahim Díaz",
+                "Joselu"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Carlo Ancelotti",
             "AwayCoach": "García Pimienta"
         },
-        "Referee": ""
+        "Referee": "José Luis\n                                    Munuera"
     },
     {
         "League": "SP1",
@@ -1718,14 +1989,19 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Daniel Parejo"
+            ],
+            "AwayScored": [
+                "Artem Dovbyk",
+                "Eric García"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Marcelino",
             "AwayCoach": "Míchel"
         },
-        "Referee": ""
+        "Referee": "José Sánchez"
     },
     {
         "League": "SP1",
@@ -1752,7 +2028,7 @@
             "HomeCoach": "Mauricio Pellegrino",
             "AwayCoach": "Iñigo Pérez"
         },
-        "Referee": ""
+        "Referee": "Francisco\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -1773,13 +2049,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Carlos Fernández"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Rubén Baraja",
             "AwayCoach": "Imanol Alguacil"
         },
-        "Referee": ""
+        "Referee": "Alejandro\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -1800,13 +2078,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Samu Omorodion"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Claudio Giráldez",
             "AwayCoach": "Luis García"
         },
-        "Referee": ""
+        "Referee": "César Soto"
     },
     {
         "League": "SP1",
@@ -1826,14 +2106,18 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Lucas Boyé"
+            ],
+            "AwayScored": [
+                "Assane Diao"
+            ]
         },
         "Coaches": {
             "HomeCoach": "José Ramón Sandoval",
             "AwayCoach": "Manuel Pellegrini"
         },
-        "Referee": ""
+        "Referee": "Víctor García"
     },
     {
         "League": "SP1",
@@ -1854,13 +2138,16 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Antoine Griezmann",
+                "Rodrigo Riquelme"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Jagoba Arrasate",
             "AwayCoach": "Diego Simeone"
         },
-        "Referee": ""
+        "Referee": "Juan Martínez"
     },
     {
         "League": "SP1",
@@ -1887,7 +2174,7 @@
             "HomeCoach": "Xavi",
             "AwayCoach": "Quique Sánchez Flores"
         },
-        "Referee": ""
+        "Referee": "Miguel\n                                    Ángel Ortiz Arias"
     },
     {
         "League": "SP1",
@@ -1914,7 +2201,7 @@
             "HomeCoach": "José Bordalás",
             "AwayCoach": "Marcelino"
         },
-        "Referee": ""
+        "Referee": "Mateo Busquets"
     },
     {
         "League": "SP1",
@@ -1934,14 +2221,20 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Álvaro García",
+                "Radamel Falcao"
+            ],
+            "AwayScored": [
+                "Vedat Muriqi",
+                "Antonio Sánchez"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Iñigo Pérez",
             "AwayCoach": "Javier Aguirre"
         },
-        "Referee": ""
+        "Referee": "Mario Melero"
     },
     {
         "League": "SP1",
@@ -1962,13 +2255,17 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Joselu",
+                "Aurélien Tchouaméni",
+                "Jude Bellingham"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Míchel",
             "AwayCoach": "Carlo Ancelotti"
         },
-        "Referee": ""
+        "Referee": "Juan Pulido"
     },
     {
         "League": "SP1",
@@ -1988,14 +2285,18 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Robin Le Normand",
+                "Takefusa Kubo",
+                "Mikel Oyarzabal"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Imanol Alguacil",
             "AwayCoach": "Ernesto Valverde"
         },
-        "Referee": ""
+        "Referee": "Jesús Gil"
     },
     {
         "League": "SP1",
@@ -2015,14 +2316,22 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Luis Javier Suárez",
+                "Luis Javier Suárez",
+                "Luis Javier Suárez"
+            ],
+            "AwayScored": [
+                "Bryan Zaragoza",
+                "Ricard Sánchez",
+                "Myrto Uzuni"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Pepe Mel",
             "AwayCoach": "José Ramón Sandoval"
         },
-        "Referee": ""
+        "Referee": "Pablo González"
     },
     {
         "League": "SP1",
@@ -2043,13 +2352,16 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "José Arnaiz",
+                "Ante Budimir"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Luis García",
             "AwayCoach": "Jagoba Arrasate"
         },
-        "Referee": ""
+        "Referee": "Jorge Figueroa"
     },
     {
         "League": "SP1",
@@ -2069,14 +2381,21 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Ángel Correa",
+                "Nahuel Molina",
+                "Ángel Correa"
+            ],
+            "AwayScored": [
+                "Lucas",
+                "Roger Martí"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Diego Simeone",
             "AwayCoach": "Mauricio Pellegrino"
         },
-        "Referee": ""
+        "Referee": "Javier\n                                    Villanueva"
     },
     {
         "League": "SP1",
@@ -2096,14 +2415,18 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Assane Diao",
+                "Marc Roca",
+                "Abde Ezzalzouli"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Manuel Pellegrini",
             "AwayCoach": "Rubén Baraja"
         },
-        "Referee": ""
+        "Referee": "Ricardo de\n                                    Burgos"
     },
     {
         "League": "SP1",
@@ -2123,14 +2446,19 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Jonathan Viera",
+                "Marc Cardona"
+            ],
+            "AwayScored": [
+                "Anastasios Douvikas"
+            ]
         },
         "Coaches": {
             "HomeCoach": "García Pimienta",
             "AwayCoach": "Claudio Giráldez"
         },
-        "Referee": ""
+        "Referee": "Javier Alberola"
     },
     {
         "League": "SP1",
@@ -2150,14 +2478,18 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Gorka Guruzeta",
+                "Dani García",
+                "Oihan Sancet"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Ernesto Valverde",
             "AwayCoach": "Pepe Mel"
         },
-        "Referee": ""
+        "Referee": "Víctor García"
     },
     {
         "League": "SP1",
@@ -2184,7 +2516,7 @@
             "HomeCoach": "Mauricio Pellegrino",
             "AwayCoach": "Míchel"
         },
-        "Referee": ""
+        "Referee": "Juan Martínez"
     },
     {
         "League": "SP1",
@@ -2204,14 +2536,19 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Jude Bellingham",
+                "Jude Bellingham",
+                "Vinicius Júnior",
+                "Joselu"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Carlo Ancelotti",
             "AwayCoach": "Jagoba Arrasate"
         },
-        "Referee": ""
+        "Referee": "Guillermo Cuadra"
     },
     {
         "League": "SP1",
@@ -2231,14 +2568,18 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Dani Rodríguez"
+            ],
+            "AwayScored": [
+                "Diego López"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Javier Aguirre",
             "AwayCoach": "Rubén Baraja"
         },
-        "Referee": ""
+        "Referee": "Francisco\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -2258,14 +2599,20 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Djibril Sow",
+                "Youssef En-Nesyri"
+            ],
+            "AwayScored": [
+                "Óscar Valentín",
+                "Álvaro García"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Quique Sánchez Flores",
             "AwayCoach": "Iñigo Pérez"
         },
-        "Referee": ""
+        "Referee": "Isidro Díaz de\n                                    Mera"
     },
     {
         "League": "SP1",
@@ -2285,14 +2632,19 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Gerard Moreno"
+            ],
+            "AwayScored": [
+                "Saúl Coco",
+                "Marc Cardona"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Marcelino",
             "AwayCoach": "García Pimienta"
         },
-        "Referee": ""
+        "Referee": "Alejandro Muñíz"
     },
     {
         "League": "SP1",
@@ -2312,14 +2664,19 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Samuel Lino",
+                "Antoine Griezmann"
+            ],
+            "AwayScored": [
+                "Mikel Oyarzabal"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Diego Simeone",
             "AwayCoach": "Imanol Alguacil"
         },
-        "Referee": ""
+        "Referee": "José Luis\n                                    Munuera"
     },
     {
         "League": "SP1",
@@ -2340,13 +2697,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Ayoze Pérez"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Luis García",
             "AwayCoach": "Manuel Pellegrini"
         },
-        "Referee": ""
+        "Referee": "Alejandro\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -2366,14 +2725,20 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Jonathan Bamba",
+                "Jørgen Strand Larsen"
+            ],
+            "AwayScored": [
+                "Borja Mayoral",
+                "Mason Greenwood"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Claudio Giráldez",
             "AwayCoach": "José Bordalás"
         },
-        "Referee": ""
+        "Referee": "José Sánchez"
     },
     {
         "League": "SP1",
@@ -2393,14 +2758,20 @@
             "AwayShotsOnTarget": 10
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Bryan Zaragoza",
+                "Bryan Zaragoza"
+            ],
+            "AwayScored": [
+                "Lamine Yamal",
+                "Sergi Roberto"
+            ]
         },
         "Coaches": {
             "HomeCoach": "José Ramón Sandoval",
             "AwayCoach": "Xavi"
         },
-        "Referee": ""
+        "Referee": "César Soto"
     },
     {
         "League": "SP1",
@@ -2420,14 +2791,17 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Ante Budimir",
+                "Ante Budimir"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Jagoba Arrasate",
             "AwayCoach": "José Ramón Sandoval"
         },
-        "Referee": ""
+        "Referee": "Mateo Busquets"
     },
     {
         "League": "SP1",
@@ -2447,14 +2821,16 @@
             "AwayShotsOnTarget": 7
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Brais Méndez"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Imanol Alguacil",
             "AwayCoach": "Javier Aguirre"
         },
-        "Referee": ""
+        "Referee": "Jorge Figueroa"
     },
     {
         "League": "SP1",
@@ -2474,14 +2850,18 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Borja Mayoral"
+            ],
+            "AwayScored": [
+                "Marc Roca"
+            ]
         },
         "Coaches": {
             "HomeCoach": "José Bordalás",
             "AwayCoach": "Manuel Pellegrini"
         },
-        "Referee": ""
+        "Referee": "César Soto"
     },
     {
         "League": "SP1",
@@ -2502,13 +2882,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Dani Carvajal"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Quique Sánchez Flores",
             "AwayCoach": "Carlo Ancelotti"
         },
-        "Referee": ""
+        "Referee": "Ricardo de\n                                    Burgos"
     },
     {
         "League": "SP1",
@@ -2529,13 +2911,17 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Antoine Griezmann",
+                "Antoine Griezmann",
+                "Antoine Griezmann"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Claudio Giráldez",
             "AwayCoach": "Diego Simeone"
         },
-        "Referee": ""
+        "Referee": "Guillermo Cuadra"
     },
     {
         "League": "SP1",
@@ -2556,13 +2942,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Bebé"
+            ]
         },
         "Coaches": {
             "HomeCoach": "García Pimienta",
             "AwayCoach": "Iñigo Pérez"
         },
-        "Referee": ""
+        "Referee": "Javier\n                                    Villanueva"
     },
     {
         "League": "SP1",
@@ -2582,14 +2970,23 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Iván Martín",
+                "Artem Dovbyk",
+                "Artem Dovbyk",
+                "Sávio",
+                "Cristhian Stuani"
+            ],
+            "AwayScored": [
+                "Léo Baptistão",
+                "Léo Baptistão"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Míchel",
             "AwayCoach": "Pepe Mel"
         },
-        "Referee": ""
+        "Referee": "Miguel\n                                    Ángel Ortiz Arias"
     },
     {
         "League": "SP1",
@@ -2609,14 +3006,18 @@
             "AwayShotsOnTarget": 7
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Gerard Moreno"
+            ],
+            "AwayScored": [
+                "Samu Omorodion"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Marcelino",
             "AwayCoach": "Luis García"
         },
-        "Referee": ""
+        "Referee": "Jesús Gil"
     },
     {
         "League": "SP1",
@@ -2636,14 +3037,16 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Marc Guiu"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Xavi",
             "AwayCoach": "Ernesto Valverde"
         },
-        "Referee": ""
+        "Referee": "Juan Martínez"
     },
     {
         "League": "SP1",
@@ -2663,14 +3066,17 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "José Luis Gayà",
+                "Hugo Duro"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Rubén Baraja",
             "AwayCoach": "Mauricio Pellegrino"
         },
-        "Referee": ""
+        "Referee": "Pablo González"
     },
     {
         "League": "SP1",
@@ -2690,14 +3096,16 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Yangel Herrera"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Míchel",
             "AwayCoach": "Claudio Giráldez"
         },
-        "Referee": ""
+        "Referee": "Isidro Díaz de\n                                    Mera"
     },
     {
         "League": "SP1",
@@ -2717,14 +3125,19 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Largie Ramazani"
+            ],
+            "AwayScored": [
+                "Munir El Haddadi",
+                "Sory Kaba"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Pepe Mel",
             "AwayCoach": "García Pimienta"
         },
-        "Referee": ""
+        "Referee": "Francisco\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -2744,14 +3157,19 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "İlkay Gündoğan"
+            ],
+            "AwayScored": [
+                "Jude Bellingham",
+                "Jude Bellingham"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Xavi",
             "AwayCoach": "Carlo Ancelotti"
         },
-        "Referee": ""
+        "Referee": "Jesús Gil"
     },
     {
         "League": "SP1",
@@ -2778,7 +3196,7 @@
             "HomeCoach": "Javier Aguirre",
             "AwayCoach": "José Bordalás"
         },
-        "Referee": ""
+        "Referee": "Pablo González"
     },
     {
         "League": "SP1",
@@ -2798,14 +3216,20 @@
             "AwayShotsOnTarget": 10
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Chris Ramos",
+                "Darwin Machís"
+            ],
+            "AwayScored": [
+                "Lucas Ocampos",
+                "Ivan Rakitić"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Mauricio Pellegrino",
             "AwayCoach": "Quique Sánchez Flores"
         },
-        "Referee": ""
+        "Referee": "César Soto"
     },
     {
         "League": "SP1",
@@ -2825,14 +3249,19 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Willian José",
+                "Isco"
+            ],
+            "AwayScored": [
+                "Rubén García"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Manuel Pellegrini",
             "AwayCoach": "Jagoba Arrasate"
         },
-        "Referee": ""
+        "Referee": "José Sánchez"
     },
     {
         "League": "SP1",
@@ -2852,14 +3281,20 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Abdul Mumin",
+                "Bebé"
+            ],
+            "AwayScored": [
+                "Mikel Oyarzabal",
+                "Mikel Oyarzabal"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Iñigo Pérez",
             "AwayCoach": "Imanol Alguacil"
         },
-        "Referee": ""
+        "Referee": "Mateo Busquets"
     },
     {
         "League": "SP1",
@@ -2879,14 +3314,20 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Óscar de Marcos",
+                "Álex Berenguer"
+            ],
+            "AwayScored": [
+                "Francisco Perez",
+                "Hugo Duro"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Ernesto Valverde",
             "AwayCoach": "Rubén Baraja"
         },
-        "Referee": ""
+        "Referee": "Jorge Figueroa"
     },
     {
         "League": "SP1",
@@ -2906,14 +3347,19 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Rodrigo Riquelme",
+                "Álvaro Morata"
+            ],
+            "AwayScored": [
+                "Ander Guevara"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Diego Simeone",
             "AwayCoach": "Luis García"
         },
-        "Referee": ""
+        "Referee": "Alejandro Muñíz"
     },
     {
         "League": "SP1",
@@ -2933,14 +3379,21 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Ricard Sánchez",
+                "Myrto Uzuni"
+            ],
+            "AwayScored": [
+                "Gerard Moreno",
+                "Gerard Moreno",
+                "Alexander Sørloth"
+            ]
         },
         "Coaches": {
             "HomeCoach": "José Ramón Sandoval",
             "AwayCoach": "Marcelino"
         },
-        "Referee": ""
+        "Referee": "Javier\n                                    Villanueva"
     },
     {
         "League": "SP1",
@@ -2960,14 +3413,19 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Kirian Rodríguez",
+                "Benito Ramírez"
+            ],
+            "AwayScored": [
+                "Álvaro Morata"
+            ]
         },
         "Coaches": {
             "HomeCoach": "García Pimienta",
             "AwayCoach": "Diego Simeone"
         },
-        "Referee": ""
+        "Referee": "Mario Melero"
     },
     {
         "League": "SP1",
@@ -2987,14 +3445,22 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Ante Budimir",
+                "Ante Budimir"
+            ],
+            "AwayScored": [
+                "Iván Martín",
+                "Artem Dovbyk",
+                "Viktor Tsyhankov",
+                "Aleix García"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Jagoba Arrasate",
             "AwayCoach": "Míchel"
         },
-        "Referee": ""
+        "Referee": "José Luis\n                                    Munuera"
     },
     {
         "League": "SP1",
@@ -3014,14 +3480,17 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Willian José",
+                "Ayoze Pérez"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Manuel Pellegrini",
             "AwayCoach": "Javier Aguirre"
         },
-        "Referee": ""
+        "Referee": "Miguel\n                                    Ángel Ortiz Arias"
     },
     {
         "League": "SP1",
@@ -3041,14 +3510,18 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Carl Starfelt"
+            ],
+            "AwayScored": [
+                "Youssef En-Nesyri"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Claudio Giráldez",
             "AwayCoach": "Quique Sánchez Flores"
         },
-        "Referee": ""
+        "Referee": "Alejandro\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -3069,13 +3542,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Ronald Araújo"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Imanol Alguacil",
             "AwayCoach": "Xavi"
         },
-        "Referee": ""
+        "Referee": "Javier Alberola"
     },
     {
         "League": "SP1",
@@ -3095,14 +3570,16 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Aleksandar Sedlar"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Luis García",
             "AwayCoach": "Pepe Mel"
         },
-        "Referee": ""
+        "Referee": "Juan Pulido"
     },
     {
         "League": "SP1",
@@ -3122,14 +3599,16 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "José Luis García Vayá"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Rubén Baraja",
             "AwayCoach": "José Ramón Sandoval"
         },
-        "Referee": ""
+        "Referee": "Víctor García"
     },
     {
         "League": "SP1",
@@ -3149,14 +3628,21 @@
             "AwayShotsOnTarget": 7
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Gerard Moreno",
+                "Alexander Sørloth"
+            ],
+            "AwayScored": [
+                "Iñigo Ruiz de Galarreta",
+                "Nico Williams",
+                "Iñaki Williams"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Marcelino",
             "AwayCoach": "Ernesto Valverde"
         },
-        "Referee": ""
+        "Referee": "Guillermo Cuadra"
     },
     {
         "League": "SP1",
@@ -3183,7 +3669,7 @@
             "HomeCoach": "Carlo Ancelotti",
             "AwayCoach": "Iñigo Pérez"
         },
-        "Referee": ""
+        "Referee": "Juan Martínez"
     },
     {
         "League": "SP1",
@@ -3203,14 +3689,16 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Borja Mayoral"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "José Bordalás",
             "AwayCoach": "Mauricio Pellegrino"
         },
-        "Referee": ""
+        "Referee": "Ricardo de\n                                    Burgos"
     },
     {
         "League": "SP1",
@@ -3230,14 +3718,23 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Oihan Sancet",
+                "Gorka Guruzeta",
+                "Gorka Guruzeta",
+                "Álex Berenguer"
+            ],
+            "AwayScored": [
+                "Iago Aspas",
+                "Jonathan Bamba",
+                "Jørgen Strand Larsen"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Ernesto Valverde",
             "AwayCoach": "Claudio Giráldez"
         },
-        "Referee": ""
+        "Referee": "Juan Pulido"
     },
     {
         "League": "SP1",
@@ -3257,14 +3754,19 @@
             "AwayShotsOnTarget": 7
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Álvaro García"
+            ],
+            "AwayScored": [
+                "Artem Dovbyk",
+                "Sávio"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Iñigo Pérez",
             "AwayCoach": "Míchel"
         },
-        "Referee": ""
+        "Referee": "Pablo González"
     },
     {
         "League": "SP1",
@@ -3284,14 +3786,20 @@
             "AwayShotsOnTarget": 6
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Sergio Arribas"
+            ],
+            "AwayScored": [
+                "Mikel Oyarzabal",
+                "Carlos Fernández",
+                "Martín Zubimendi"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Pepe Mel",
             "AwayCoach": "Imanol Alguacil"
         },
-        "Referee": ""
+        "Referee": "Isidro Díaz de\n                                    Mera"
     },
     {
         "League": "SP1",
@@ -3311,14 +3819,18 @@
             "AwayShotsOnTarget": 6
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Gonzalo Villar"
+            ],
+            "AwayScored": [
+                "Borja Mayoral"
+            ]
         },
         "Coaches": {
             "HomeCoach": "José Ramón Sandoval",
             "AwayCoach": "José Bordalás"
         },
-        "Referee": ""
+        "Referee": "Alejandro Muñíz"
     },
     {
         "League": "SP1",
@@ -3338,14 +3850,18 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Ante Budimir"
+            ],
+            "AwayScored": [
+                "Alberto Moleiro"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Jagoba Arrasate",
             "AwayCoach": "García Pimienta"
         },
-        "Referee": ""
+        "Referee": "Jorge Figueroa"
     },
     {
         "League": "SP1",
@@ -3365,14 +3881,22 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Dani Carvajal",
+                "Vinicius Júnior",
+                "Vinicius Júnior",
+                "Rodrygo",
+                "Rodrygo"
+            ],
+            "AwayScored": [
+                "Hugo Duro"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Carlo Ancelotti",
             "AwayCoach": "Rubén Baraja"
         },
-        "Referee": ""
+        "Referee": "José Sánchez"
     },
     {
         "League": "SP1",
@@ -3392,14 +3916,19 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Robert Lewandowski",
+                "Robert Lewandowski"
+            ],
+            "AwayScored": [
+                "Samu Omorodion"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Xavi",
             "AwayCoach": "Luis García"
         },
-        "Referee": ""
+        "Referee": "Mateo Busquets"
     },
     {
         "League": "SP1",
@@ -3419,14 +3948,18 @@
             "AwayShotsOnTarget": 6
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Ivan Rakitić"
+            ],
+            "AwayScored": [
+                "Ayoze Pérez"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Quique Sánchez Flores",
             "AwayCoach": "Manuel Pellegrini"
         },
-        "Referee": ""
+        "Referee": "Jesús Gil"
     },
     {
         "League": "SP1",
@@ -3446,14 +3979,20 @@
             "AwayShotsOnTarget": 7
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Axel Witsel",
+                "Antoine Griezmann",
+                "Samuel Lino"
+            ],
+            "AwayScored": [
+                "Gerard Moreno"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Diego Simeone",
             "AwayCoach": "Marcelino"
         },
-        "Referee": ""
+        "Referee": "Francisco\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -3473,14 +4012,19 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Abderrahman Rebbach",
+                "Samu Omorodion"
+            ],
+            "AwayScored": [
+                "Myrto Uzuni"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Luis García",
             "AwayCoach": "José Ramón Sandoval"
         },
-        "Referee": ""
+        "Referee": "Javier Alberola"
     },
     {
         "League": "SP1",
@@ -3500,14 +4044,16 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Unai López"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Iñigo Pérez",
             "AwayCoach": "Xavi"
         },
-        "Referee": ""
+        "Referee": "José Luis\n                                    Munuera"
     },
     {
         "League": "SP1",
@@ -3534,7 +4080,7 @@
             "HomeCoach": "Rubén Baraja",
             "AwayCoach": "Claudio Giráldez"
         },
-        "Referee": ""
+        "Referee": "César Soto"
     },
     {
         "League": "SP1",
@@ -3554,14 +4100,19 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Mason Greenwood",
+                "Borja Mayoral"
+            ],
+            "AwayScored": [
+                "Largie Ramazani"
+            ]
         },
         "Coaches": {
             "HomeCoach": "José Bordalás",
             "AwayCoach": "Pepe Mel"
         },
-        "Referee": ""
+        "Referee": "Alejandro\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -3581,14 +4132,16 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Antoine Griezmann"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Diego Simeone",
             "AwayCoach": "Javier Aguirre"
         },
-        "Referee": ""
+        "Referee": "Juan Martínez"
     },
     {
         "League": "SP1",
@@ -3608,14 +4161,20 @@
             "AwayShotsOnTarget": 7
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "José Luis Morales",
+                "José Luis Morales",
+                "José Luis Morales"
+            ],
+            "AwayScored": [
+                "Catena"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Marcelino",
             "AwayCoach": "Jagoba Arrasate"
         },
-        "Referee": ""
+        "Referee": "Ricardo de\n                                    Burgos"
     },
     {
         "League": "SP1",
@@ -3635,14 +4194,18 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Umar Sadiq"
+            ],
+            "AwayScored": [
+                "Youssef En-Nesyri"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Imanol Alguacil",
             "AwayCoach": "Quique Sánchez Flores"
         },
-        "Referee": ""
+        "Referee": "Miguel\n                                    Ángel Ortiz Arias"
     },
     {
         "League": "SP1",
@@ -3663,13 +4226,17 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Rodrygo",
+                "Rodrygo",
+                "Jude Bellingham"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Mauricio Pellegrino",
             "AwayCoach": "Carlo Ancelotti"
         },
-        "Referee": ""
+        "Referee": "Guillermo Cuadra"
     },
     {
         "League": "SP1",
@@ -3689,14 +4256,16 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Willian José"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Manuel Pellegrini",
             "AwayCoach": "García Pimienta"
         },
-        "Referee": ""
+        "Referee": "Víctor García"
     },
     {
         "League": "SP1",
@@ -3716,14 +4285,18 @@
             "AwayShotsOnTarget": 6
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Viktor Tsyhankov"
+            ],
+            "AwayScored": [
+                "Iñaki Williams"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Míchel",
             "AwayCoach": "Ernesto Valverde"
         },
-        "Referee": ""
+        "Referee": "Mario Melero"
     },
     {
         "League": "SP1",
@@ -3743,14 +4316,18 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Abdón Prats"
+            ],
+            "AwayScored": [
+                "Rubén Alcaraz"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Javier Aguirre",
             "AwayCoach": "Mauricio Pellegrino"
         },
-        "Referee": ""
+        "Referee": "Javier\n                                    Villanueva"
     },
     {
         "League": "SP1",
@@ -3770,14 +4347,17 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Julian Araujo",
+                "Cristian Herrera"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "García Pimienta",
             "AwayCoach": "José Bordalás"
         },
-        "Referee": ""
+        "Referee": "Mateo Busquets"
     },
     {
         "League": "SP1",
@@ -3797,14 +4377,19 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Cristhian Stuani",
+                "Cristhian Stuani"
+            ],
+            "AwayScored": [
+                "Hugo Duro"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Míchel",
             "AwayCoach": "Rubén Baraja"
         },
-        "Referee": ""
+        "Referee": "Javier\n                                    Villanueva"
     },
     {
         "League": "SP1",
@@ -3824,14 +4409,18 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Gorka Guruzeta",
+                "Iñaki Williams",
+                "Nico Williams"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Ernesto Valverde",
             "AwayCoach": "Iñigo Pérez"
         },
-        "Referee": ""
+        "Referee": "Francisco\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -3851,14 +4440,17 @@
             "AwayShotsOnTarget": 0
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Brahim Díaz",
+                "Rodrygo"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Carlo Ancelotti",
             "AwayCoach": "José Ramón Sandoval"
         },
-        "Referee": ""
+        "Referee": "Pablo González"
     },
     {
         "League": "SP1",
@@ -3878,14 +4470,18 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Moi Gómez"
+            ],
+            "AwayScored": [
+                "Umar Sadiq"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Jagoba Arrasate",
             "AwayCoach": "Imanol Alguacil"
         },
-        "Referee": ""
+        "Referee": "Juan Pulido"
     },
     {
         "League": "SP1",
@@ -3912,7 +4508,7 @@
             "HomeCoach": "Javier Aguirre",
             "AwayCoach": "Luis García"
         },
-        "Referee": ""
+        "Referee": "Jorge Figueroa"
     },
     {
         "League": "SP1",
@@ -3939,7 +4535,7 @@
             "HomeCoach": "Pepe Mel",
             "AwayCoach": "Manuel Pellegrini"
         },
-        "Referee": ""
+        "Referee": "Alejandro Muñíz"
     },
     {
         "League": "SP1",
@@ -3959,14 +4555,18 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Kike Salas"
+            ],
+            "AwayScored": [
+                "José Luis Morales"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Quique Sánchez Flores",
             "AwayCoach": "Marcelino"
         },
-        "Referee": ""
+        "Referee": "Isidro Díaz de\n                                    Mera"
     },
     {
         "League": "SP1",
@@ -3986,14 +4586,16 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "João Félix"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Xavi",
             "AwayCoach": "Diego Simeone"
         },
-        "Referee": ""
+        "Referee": "José Sánchez"
     },
     {
         "League": "SP1",
@@ -4013,14 +4615,18 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Jørgen Strand Larsen"
+            ],
+            "AwayScored": [
+                "Chris Ramos"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Claudio Giráldez",
             "AwayCoach": "Mauricio Pellegrino"
         },
-        "Referee": ""
+        "Referee": "Jesús Gil"
     },
     {
         "League": "SP1",
@@ -4040,14 +4646,16 @@
             "AwayShotsOnTarget": 0
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Borja Mayoral"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "José Bordalás",
             "AwayCoach": "Rubén Baraja"
         },
-        "Referee": ""
+        "Referee": "Guillermo Cuadra"
     },
     {
         "League": "SP1",
@@ -4068,13 +4676,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Kirian Rodríguez"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Luis García",
             "AwayCoach": "García Pimienta"
         },
-        "Referee": ""
+        "Referee": "José Luis\n                                    Munuera"
     },
     {
         "League": "SP1",
@@ -4094,14 +4704,18 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Aitor Ruibal"
+            ],
+            "AwayScored": [
+                "Jude Bellingham"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Manuel Pellegrini",
             "AwayCoach": "Carlo Ancelotti"
         },
-        "Referee": ""
+        "Referee": "César Soto"
     },
     {
         "League": "SP1",
@@ -4122,13 +4736,17 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Mikel Merino",
+                "Martín Zubimendi",
+                "Takefusa Kubo"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Marcelino",
             "AwayCoach": "Imanol Alguacil"
         },
-        "Referee": ""
+        "Referee": "Mario Melero"
     },
     {
         "League": "SP1",
@@ -4148,14 +4766,16 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Cyle Larin"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Javier Aguirre",
             "AwayCoach": "Quique Sánchez Flores"
         },
-        "Referee": ""
+        "Referee": "Javier Alberola"
     },
     {
         "League": "SP1",
@@ -4175,14 +4795,19 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Álvaro Morata",
+                "Ángel Correa"
+            ],
+            "AwayScored": [
+                "Léo Baptistão"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Diego Simeone",
             "AwayCoach": "Pepe Mel"
         },
-        "Referee": ""
+        "Referee": "Ricardo de\n                                    Burgos"
     },
     {
         "League": "SP1",
@@ -4202,14 +4827,18 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Roger Martí"
+            ],
+            "AwayScored": [
+                "Ante Budimir"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Mauricio Pellegrino",
             "AwayCoach": "Jagoba Arrasate"
         },
-        "Referee": ""
+        "Referee": "Juan Martínez"
     },
     {
         "League": "SP1",
@@ -4229,14 +4858,22 @@
             "AwayShotsOnTarget": 7
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Robert Lewandowski",
+                "İlkay Gündoğan"
+            ],
+            "AwayScored": [
+                "Artem Dovbyk",
+                "Miguel Gutiérrez",
+                "Valery Fernández",
+                "Cristhian Stuani"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Xavi",
             "AwayCoach": "Míchel"
         },
-        "Referee": ""
+        "Referee": "Isidro Díaz de\n                                    Mera"
     },
     {
         "League": "SP1",
@@ -4257,13 +4894,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Iñaki Williams"
+            ]
         },
         "Coaches": {
             "HomeCoach": "José Ramón Sandoval",
             "AwayCoach": "Ernesto Valverde"
         },
-        "Referee": ""
+        "Referee": "Miguel\n                                    Ángel Ortiz Arias"
     },
     {
         "League": "SP1",
@@ -4290,7 +4929,7 @@
             "HomeCoach": "Iñigo Pérez",
             "AwayCoach": "Claudio Giráldez"
         },
-        "Referee": ""
+        "Referee": "Víctor García"
     },
     {
         "League": "SP1",
@@ -4310,14 +4949,16 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Raúl"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Jagoba Arrasate",
             "AwayCoach": "Iñigo Pérez"
         },
-        "Referee": ""
+        "Referee": "Javier\n                                    Villanueva"
     },
     {
         "League": "SP1",
@@ -4337,14 +4978,16 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Jørgen Strand Larsen"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Claudio Giráldez",
             "AwayCoach": "José Ramón Sandoval"
         },
-        "Referee": ""
+        "Referee": "José Sánchez"
     },
     {
         "League": "SP1",
@@ -4364,14 +5007,17 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Gorka Guruzeta",
+                "Nico Williams"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Ernesto Valverde",
             "AwayCoach": "Diego Simeone"
         },
-        "Referee": ""
+        "Referee": "Jesús Gil"
     },
     {
         "League": "SP1",
@@ -4392,13 +5038,17 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Borja Mayoral",
+                "Jaime Mata",
+                "Mason Greenwood"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Quique Sánchez Flores",
             "AwayCoach": "José Bordalás"
         },
-        "Referee": ""
+        "Referee": "Juan Pulido"
     },
     {
         "League": "SP1",
@@ -4418,14 +5068,18 @@
             "AwayShotsOnTarget": 8
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Hugo Guillamón"
+            ],
+            "AwayScored": [
+                "João Félix"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Rubén Baraja",
             "AwayCoach": "Xavi"
         },
-        "Referee": ""
+        "Referee": "Miguel\n                                    Ángel Ortiz Arias"
     },
     {
         "League": "SP1",
@@ -4452,7 +5106,7 @@
             "HomeCoach": "Pepe Mel",
             "AwayCoach": "Javier Aguirre"
         },
-        "Referee": ""
+        "Referee": "Pablo González"
     },
     {
         "League": "SP1",
@@ -4479,7 +5133,7 @@
             "HomeCoach": "Imanol Alguacil",
             "AwayCoach": "Manuel Pellegrini"
         },
-        "Referee": ""
+        "Referee": "Mateo Busquets"
     },
     {
         "League": "SP1",
@@ -4499,14 +5153,18 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Pejiño"
+            ],
+            "AwayScored": [
+                "Chris Ramos"
+            ]
         },
         "Coaches": {
             "HomeCoach": "García Pimienta",
             "AwayCoach": "Mauricio Pellegrino"
         },
-        "Referee": ""
+        "Referee": "Alejandro Muñíz"
     },
     {
         "League": "SP1",
@@ -4526,14 +5184,21 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Jude Bellingham",
+                "Rodrygo",
+                "Brahim Díaz",
+                "Luka Modrić"
+            ],
+            "AwayScored": [
+                "José Luis Morales"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Carlo Ancelotti",
             "AwayCoach": "Marcelino"
         },
-        "Referee": ""
+        "Referee": "Jorge Figueroa"
     },
     {
         "League": "SP1",
@@ -4553,14 +5218,18 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Artem Dovbyk",
+                "Portu",
+                "Artem Dovbyk"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Míchel",
             "AwayCoach": "Luis García"
         },
-        "Referee": ""
+        "Referee": "Francisco\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -4581,13 +5250,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Sergi Canós"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Iñigo Pérez",
             "AwayCoach": "Rubén Baraja"
         },
-        "Referee": ""
+        "Referee": "Javier Alberola"
     },
     {
         "League": "SP1",
@@ -4607,14 +5278,22 @@
             "AwayShotsOnTarget": 9
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Antoine Griezmann",
+                "Álvaro Morata",
+                "Antoine Griezmann"
+            ],
+            "AwayScored": [
+                "Borja Mayoral",
+                "Óscar Rodríguez Arnaiz",
+                "Borja Mayoral"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Diego Simeone",
             "AwayCoach": "José Bordalás"
         },
-        "Referee": ""
+        "Referee": "José Luis\n                                    Munuera"
     },
     {
         "League": "SP1",
@@ -4635,13 +5314,17 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Adrià Pedrosa",
+                "Lucas Ocampos",
+                "Sergio Ramos"
+            ]
         },
         "Coaches": {
             "HomeCoach": "José Ramón Sandoval",
             "AwayCoach": "Quique Sánchez Flores"
         },
-        "Referee": ""
+        "Referee": "Mateo Busquets"
     },
     {
         "League": "SP1",
@@ -4661,14 +5344,21 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Raphinha",
+                "Sergi Roberto",
+                "Sergi Roberto"
+            ],
+            "AwayScored": [
+                "Léo Baptistão",
+                "Édgar González"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Xavi",
             "AwayCoach": "Pepe Mel"
         },
-        "Referee": ""
+        "Referee": "Guillermo Cuadra"
     },
     {
         "League": "SP1",
@@ -4688,14 +5378,16 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Unai Gómez"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Ernesto Valverde",
             "AwayCoach": "García Pimienta"
         },
-        "Referee": ""
+        "Referee": "Juan Martínez"
     },
     {
         "League": "SP1",
@@ -4715,14 +5407,21 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Alfonso Pedraza",
+                "Aïssa Mandi",
+                "Daniel Parejo"
+            ],
+            "AwayScored": [
+                "Anastasios Douvikas",
+                "Jørgen Strand Larsen"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Marcelino",
             "AwayCoach": "Claudio Giráldez"
         },
-        "Referee": ""
+        "Referee": "César Soto"
     },
     {
         "League": "SP1",
@@ -4742,14 +5441,18 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Germán Pezzella"
+            ],
+            "AwayScored": [
+                "Artem Dovbyk"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Manuel Pellegrini",
             "AwayCoach": "Míchel"
         },
-        "Referee": ""
+        "Referee": "Ricardo de\n                                    Burgos"
     },
     {
         "League": "SP1",
@@ -4776,7 +5479,7 @@
             "HomeCoach": "Mauricio Pellegrino",
             "AwayCoach": "Imanol Alguacil"
         },
-        "Referee": ""
+        "Referee": "Javier\n                                    Villanueva"
     },
     {
         "League": "SP1",
@@ -4797,13 +5500,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Lucas Vázquez"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Luis García",
             "AwayCoach": "Carlo Ancelotti"
         },
-        "Referee": ""
+        "Referee": "Isidro Díaz de\n                                    Mera"
     },
     {
         "League": "SP1",
@@ -4823,14 +5528,21 @@
             "AwayShotsOnTarget": 7
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Matija Nastasić",
+                "Dani Rodríguez",
+                "Antonio Raillo"
+            ],
+            "AwayScored": [
+                "Pablo Ibáñez",
+                "Raúl"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Javier Aguirre",
             "AwayCoach": "Jagoba Arrasate"
         },
-        "Referee": ""
+        "Referee": "Mario Melero"
     },
     {
         "League": "SP1",
@@ -4850,14 +5562,16 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Marcos Llorente"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Diego Simeone",
             "AwayCoach": "Quique Sánchez Flores"
         },
-        "Referee": ""
+        "Referee": "César Soto"
     },
     {
         "League": "SP1",
@@ -4878,13 +5592,16 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Sergio Camello",
+                "Sergio Camello"
+            ]
         },
         "Coaches": {
             "HomeCoach": "José Bordalás",
             "AwayCoach": "Iñigo Pérez"
         },
-        "Referee": ""
+        "Referee": "Jorge Figueroa"
     },
     {
         "League": "SP1",
@@ -4904,14 +5621,18 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Martín Zubimendi"
+            ],
+            "AwayScored": [
+                "Luis Rioja"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Imanol Alguacil",
             "AwayCoach": "Luis García"
         },
-        "Referee": ""
+        "Referee": "Víctor García"
     },
     {
         "League": "SP1",
@@ -4931,14 +5652,20 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Roman Yaremchuk",
+                "José Luis García Vayá",
+                "José Luis García Vayá"
+            ],
+            "AwayScored": [
+                "Gerard Moreno"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Rubén Baraja",
             "AwayCoach": "Marcelino"
         },
-        "Referee": ""
+        "Referee": "Jesús Gil"
     },
     {
         "League": "SP1",
@@ -4958,14 +5685,17 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Myrto Uzuni",
+                "Bryan Zaragoza"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "José Ramón Sandoval",
             "AwayCoach": "Mauricio Pellegrino"
         },
-        "Referee": ""
+        "Referee": "Juan Pulido"
     },
     {
         "League": "SP1",
@@ -4985,14 +5715,19 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Iago Aspas",
+                "Williot Swedberg"
+            ],
+            "AwayScored": [
+                "Aitor Ruibal"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Claudio Giráldez",
             "AwayCoach": "Manuel Pellegrini"
         },
-        "Referee": ""
+        "Referee": "Miguel\n                                    Ángel Ortiz Arias"
     },
     {
         "League": "SP1",
@@ -5012,14 +5747,16 @@
             "AwayShotsOnTarget": 0
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Antonio Rüdiger"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Carlo Ancelotti",
             "AwayCoach": "Javier Aguirre"
         },
-        "Referee": ""
+        "Referee": "Alejandro Muñíz"
     },
     {
         "League": "SP1",
@@ -5039,14 +5776,23 @@
             "AwayShotsOnTarget": 12
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Valery Fernández",
+                "Sávio",
+                "Daley Blind",
+                "Iván Martín"
+            ],
+            "AwayScored": [
+                "Álvaro Morata",
+                "Álvaro Morata",
+                "Álvaro Morata"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Míchel",
             "AwayCoach": "Diego Simeone"
         },
-        "Referee": ""
+        "Referee": "Alejandro\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -5073,7 +5819,7 @@
             "HomeCoach": "Jagoba Arrasate",
             "AwayCoach": "Pepe Mel"
         },
-        "Referee": ""
+        "Referee": "César Soto"
     },
     {
         "League": "SP1",
@@ -5094,13 +5840,16 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Mikel Vesga",
+                "Aitor Paredes"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Quique Sánchez Flores",
             "AwayCoach": "Ernesto Valverde"
         },
-        "Referee": ""
+        "Referee": "José Sánchez"
     },
     {
         "League": "SP1",
@@ -5120,14 +5869,19 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Munir El Haddadi"
+            ],
+            "AwayScored": [
+                "Ferrán Torres",
+                "İlkay Gündoğan"
+            ]
         },
         "Coaches": {
             "HomeCoach": "García Pimienta",
             "AwayCoach": "Xavi"
         },
-        "Referee": ""
+        "Referee": "Pablo González"
     },
     {
         "League": "SP1",
@@ -5147,14 +5901,21 @@
             "AwayShotsOnTarget": 8
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Rafa Mir",
+                "Lucas Ocampos"
+            ],
+            "AwayScored": [
+                "Nahuel Tenaglia",
+                "Kiké",
+                "Rubén Duarte"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Quique Sánchez Flores",
             "AwayCoach": "Luis García"
         },
-        "Referee": ""
+        "Referee": "Alejandro\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -5174,14 +5935,18 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Kirian Rodríguez",
+                "Juan Herzog",
+                "Kirian Rodríguez"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "García Pimienta",
             "AwayCoach": "Marcelino"
         },
-        "Referee": ""
+        "Referee": "Javier\n                                    Villanueva"
     },
     {
         "League": "SP1",
@@ -5201,14 +5966,18 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Cyle Larin"
+            ],
+            "AwayScored": [
+                "Iago Aspas"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Javier Aguirre",
             "AwayCoach": "Claudio Giráldez"
         },
-        "Referee": ""
+        "Referee": "Víctor García"
     },
     {
         "League": "SP1",
@@ -5228,14 +5997,19 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Álex Berenguer",
+                "Álex Berenguer"
+            ],
+            "AwayScored": [
+                "Mikel Oyarzabal"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Ernesto Valverde",
             "AwayCoach": "Imanol Alguacil"
         },
-        "Referee": ""
+        "Referee": "José Luis\n                                    Munuera"
     },
     {
         "League": "SP1",
@@ -5255,14 +6029,16 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Isco"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Manuel Pellegrini",
             "AwayCoach": "José Ramón Sandoval"
         },
-        "Referee": ""
+        "Referee": "Guillermo Cuadra"
     },
     {
         "League": "SP1",
@@ -5289,7 +6065,7 @@
             "HomeCoach": "Pepe Mel",
             "AwayCoach": "Míchel"
         },
-        "Referee": ""
+        "Referee": "Mateo Busquets"
     },
     {
         "League": "SP1",
@@ -5309,14 +6085,21 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Rubén Alcaraz"
+            ],
+            "AwayScored": [
+                "Hugo Duro",
+                "Diego López",
+                "Javier Guerra",
+                "Jesus Vazquez"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Mauricio Pellegrino",
             "AwayCoach": "Rubén Baraja"
         },
-        "Referee": ""
+        "Referee": "Isidro Díaz de\n                                    Mera"
     },
     {
         "League": "SP1",
@@ -5336,14 +6119,16 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Luis Rioja"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Luis García",
             "AwayCoach": "Mauricio Pellegrino"
         },
-        "Referee": ""
+        "Referee": "Alejandro Muñíz"
     },
     {
         "League": "SP1",
@@ -5364,13 +6149,16 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Alberto Moleiro",
+                "Javier Muñoz"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Iñigo Pérez",
             "AwayCoach": "García Pimienta"
         },
-        "Referee": ""
+        "Referee": "Mario Melero"
     },
     {
         "League": "SP1",
@@ -5390,14 +6178,18 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Alexander Sørloth"
+            ],
+            "AwayScored": [
+                "Javier Llabrés"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Marcelino",
             "AwayCoach": "Javier Aguirre"
         },
-        "Referee": ""
+        "Referee": "Miguel\n                                    Ángel Ortiz Arias"
     },
     {
         "League": "SP1",
@@ -5417,14 +6209,16 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Hugo Duro"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Rubén Baraja",
             "AwayCoach": "Ernesto Valverde"
         },
-        "Referee": ""
+        "Referee": "Juan Pulido"
     },
     {
         "League": "SP1",
@@ -5445,13 +6239,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Brais Méndez"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Claudio Giráldez",
             "AwayCoach": "Imanol Alguacil"
         },
-        "Referee": ""
+        "Referee": "Jorge Figueroa"
     },
     {
         "League": "SP1",
@@ -5471,14 +6267,21 @@
             "AwayShotsOnTarget": 7
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Raúl",
+                "Iker Muñoz",
+                "Jesús Areso"
+            ],
+            "AwayScored": [
+                "Borja Mayoral",
+                "Nemanja Maksimović"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Jagoba Arrasate",
             "AwayCoach": "José Bordalás"
         },
-        "Referee": ""
+        "Referee": "José Sánchez"
     },
     {
         "League": "SP1",
@@ -5498,14 +6301,21 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Jude Bellingham",
+                "Vinicius Júnior",
+                "Dani Carvajal"
+            ],
+            "AwayScored": [
+                "Largie Ramazani",
+                "Édgar González"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Carlo Ancelotti",
             "AwayCoach": "Pepe Mel"
         },
-        "Referee": ""
+        "Referee": "Francisco\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -5525,14 +6335,22 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Isco",
+                "Isco"
+            ],
+            "AwayScored": [
+                "Ferrán Torres",
+                "Ferrán Torres",
+                "João Félix",
+                "Ferrán Torres"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Manuel Pellegrini",
             "AwayCoach": "Xavi"
         },
-        "Referee": ""
+        "Referee": "Jesús Gil"
     },
     {
         "League": "SP1",
@@ -5552,14 +6370,22 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Artem Dovbyk",
+                "Artem Dovbyk",
+                "Artem Dovbyk",
+                "Viktor Tsyhankov",
+                "Cristhian Stuani"
+            ],
+            "AwayScored": [
+                "Isaac Romero"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Míchel",
             "AwayCoach": "Quique Sánchez Flores"
         },
-        "Referee": ""
+        "Referee": "Pablo González"
     },
     {
         "League": "SP1",
@@ -5580,13 +6406,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Álvaro Morata"
+            ]
         },
         "Coaches": {
             "HomeCoach": "José Ramón Sandoval",
             "AwayCoach": "Diego Simeone"
         },
-        "Referee": ""
+        "Referee": "Juan Martínez"
     },
     {
         "League": "SP1",
@@ -5607,13 +6435,17 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Samu Omorodion",
+                "Luis Rioja",
+                "Samu Omorodion"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Pepe Mel",
             "AwayCoach": "Luis García"
         },
-        "Referee": ""
+        "Referee": "Miguel\n                                    Ángel Ortiz Arias"
     },
     {
         "League": "SP1",
@@ -5640,7 +6472,7 @@
             "HomeCoach": "Imanol Alguacil",
             "AwayCoach": "Iñigo Pérez"
         },
-        "Referee": ""
+        "Referee": "Alejandro\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -5660,14 +6492,19 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Javier Muñoz"
+            ],
+            "AwayScored": [
+                "Vinicius Júnior",
+                "Aurélien Tchouaméni"
+            ]
         },
         "Coaches": {
             "HomeCoach": "García Pimienta",
             "AwayCoach": "Carlo Ancelotti"
         },
-        "Referee": ""
+        "Referee": "César Soto"
     },
     {
         "League": "SP1",
@@ -5687,14 +6524,23 @@
             "AwayShotsOnTarget": 6
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "İlkay Gündoğan",
+                "Pedri"
+            ],
+            "AwayScored": [
+                "Gerard Moreno",
+                "Ilias Akhomach",
+                "Gonçalo Guedes",
+                "Alexander Sørloth",
+                "José Luis Morales"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Xavi",
             "AwayCoach": "Marcelino"
         },
-        "Referee": ""
+        "Referee": "José Luis\n                                    Munuera"
     },
     {
         "League": "SP1",
@@ -5715,13 +6561,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Sergi Altimira"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Javier Aguirre",
             "AwayCoach": "Manuel Pellegrini"
         },
-        "Referee": ""
+        "Referee": "Javier\n                                    Villanueva"
     },
     {
         "League": "SP1",
@@ -5742,13 +6590,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Portu"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Claudio Giráldez",
             "AwayCoach": "Míchel"
         },
-        "Referee": ""
+        "Referee": "Mario Melero"
     },
     {
         "League": "SP1",
@@ -5775,7 +6625,7 @@
             "HomeCoach": "Mauricio Pellegrino",
             "AwayCoach": "Ernesto Valverde"
         },
-        "Referee": ""
+        "Referee": "Mateo Busquets"
     },
     {
         "League": "SP1",
@@ -5795,14 +6645,18 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Isaac Romero"
+            ],
+            "AwayScored": [
+                "Ante Budimir"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Quique Sánchez Flores",
             "AwayCoach": "Jagoba Arrasate"
         },
-        "Referee": ""
+        "Referee": "Guillermo Cuadra"
     },
     {
         "League": "SP1",
@@ -5822,14 +6676,17 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Samuel Lino",
+                "Memphis"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Diego Simeone",
             "AwayCoach": "Rubén Baraja"
         },
-        "Referee": ""
+        "Referee": "Ricardo de\n                                    Burgos"
     },
     {
         "League": "SP1",
@@ -5849,14 +6706,17 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Mason Greenwood",
+                "Borja Mayoral"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "José Bordalás",
             "AwayCoach": "José Ramón Sandoval"
         },
-        "Referee": ""
+        "Referee": "Víctor García"
     },
     {
         "League": "SP1",
@@ -5876,14 +6736,16 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Vitor Roque"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Xavi",
             "AwayCoach": "Jagoba Arrasate"
         },
-        "Referee": ""
+        "Referee": "Jorge Figueroa"
     },
     {
         "League": "SP1",
@@ -5903,14 +6765,19 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Reinildo Mandava",
+                "Memphis"
+            ],
+            "AwayScored": [
+                "Álvaro García"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Diego Simeone",
             "AwayCoach": "Iñigo Pérez"
         },
-        "Referee": ""
+        "Referee": "César Soto"
     },
     {
         "League": "SP1",
@@ -5931,13 +6798,16 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Joselu",
+                "Joselu"
+            ]
         },
         "Coaches": {
             "HomeCoach": "José Bordalás",
             "AwayCoach": "Carlo Ancelotti"
         },
-        "Referee": ""
+        "Referee": "Ricardo de\n                                    Burgos"
     },
     {
         "League": "SP1",
@@ -5957,14 +6827,19 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Yuri Berchiche",
+                "Yuri Berchiche",
+                "Gorka Guruzeta",
+                "Iker Muniain"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Ernesto Valverde",
             "AwayCoach": "Javier Aguirre"
         },
-        "Referee": ""
+        "Referee": "Jorge Figueroa"
     },
     {
         "League": "SP1",
@@ -5984,14 +6859,19 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Hugo Duro",
+                "Roman Yaremchuk"
+            ],
+            "AwayScored": [
+                "Sergio Arribas"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Rubén Baraja",
             "AwayCoach": "Pepe Mel"
         },
-        "Referee": ""
+        "Referee": "Alejandro Muñíz"
     },
     {
         "League": "SP1",
@@ -6011,14 +6891,18 @@
             "AwayShotsOnTarget": 6
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Bruno Méndez"
+            ],
+            "AwayScored": [
+                "Pejiño"
+            ]
         },
         "Coaches": {
             "HomeCoach": "José Ramón Sandoval",
             "AwayCoach": "García Pimienta"
         },
-        "Referee": ""
+        "Referee": "Mateo Busquets"
     },
     {
         "League": "SP1",
@@ -6038,14 +6922,20 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Samu Omorodion"
+            ],
+            "AwayScored": [
+                "Robert Lewandowski",
+                "İlkay Gündoğan",
+                "Vitor Roque"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Luis García",
             "AwayCoach": "Xavi"
         },
-        "Referee": ""
+        "Referee": "Juan Martínez"
     },
     {
         "League": "SP1",
@@ -6072,7 +6962,7 @@
             "HomeCoach": "Míchel",
             "AwayCoach": "Imanol Alguacil"
         },
-        "Referee": ""
+        "Referee": "Jesús Gil"
     },
     {
         "League": "SP1",
@@ -6099,7 +6989,7 @@
             "HomeCoach": "Marcelino",
             "AwayCoach": "Mauricio Pellegrino"
         },
-        "Referee": ""
+        "Referee": "Pablo González"
     },
     {
         "League": "SP1",
@@ -6120,13 +7010,17 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Jørgen Strand Larsen",
+                "Luca de la Torre",
+                "Anastasios Douvikas"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Jagoba Arrasate",
             "AwayCoach": "Claudio Giráldez"
         },
-        "Referee": ""
+        "Referee": "Javier Alberola"
     },
     {
         "League": "SP1",
@@ -6146,14 +7040,18 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Isco"
+            ],
+            "AwayScored": [
+                "Mason Greenwood"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Manuel Pellegrini",
             "AwayCoach": "José Bordalás"
         },
-        "Referee": ""
+        "Referee": "Juan Pulido"
     },
     {
         "League": "SP1",
@@ -6173,14 +7071,18 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Brahim Díaz"
+            ],
+            "AwayScored": [
+                "Marcos Llorente"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Carlo Ancelotti",
             "AwayCoach": "Diego Simeone"
         },
-        "Referee": ""
+        "Referee": "José Sánchez"
     },
     {
         "League": "SP1",
@@ -6200,14 +7102,19 @@
             "AwayShotsOnTarget": 6
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Isaac Palazón Camacho"
+            ],
+            "AwayScored": [
+                "Youssef En-Nesyri",
+                "Youssef En-Nesyri"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Iñigo Pérez",
             "AwayCoach": "Quique Sánchez Flores"
         },
-        "Referee": ""
+        "Referee": "Francisco\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -6228,13 +7135,16 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Willian José",
+                "Pablo Fornals"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Mauricio Pellegrino",
             "AwayCoach": "Manuel Pellegrini"
         },
-        "Referee": ""
+        "Referee": "Ricardo de\n                                    Burgos"
     },
     {
         "League": "SP1",
@@ -6254,14 +7164,18 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Samu Omorodion"
+            ],
+            "AwayScored": [
+                "Jorge Cuenca"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Luis García",
             "AwayCoach": "Marcelino"
         },
-        "Referee": ""
+        "Referee": "Mario Melero"
     },
     {
         "League": "SP1",
@@ -6282,13 +7196,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Ante Budimir"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Imanol Alguacil",
             "AwayCoach": "Jagoba Arrasate"
         },
-        "Referee": ""
+        "Referee": "Isidro Díaz de\n                                    Mera"
     },
     {
         "League": "SP1",
@@ -6308,14 +7224,19 @@
             "AwayShotsOnTarget": 0
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Vinicius Júnior",
+                "Jude Bellingham",
+                "Jude Bellingham",
+                "Rodrygo"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Carlo Ancelotti",
             "AwayCoach": "Míchel"
         },
-        "Referee": ""
+        "Referee": "Juan Martínez"
     },
     {
         "League": "SP1",
@@ -6335,14 +7256,17 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Álex Suárez",
+                "Marc Cardona"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "García Pimienta",
             "AwayCoach": "Rubén Baraja"
         },
-        "Referee": ""
+        "Referee": "Guillermo Cuadra"
     },
     {
         "League": "SP1",
@@ -6362,14 +7286,21 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Borja Mayoral",
+                "Jaime Mata",
+                "Jaime Mata"
+            ],
+            "AwayScored": [
+                "Jørgen Strand Larsen",
+                "Tadeo Allende"
+            ]
         },
         "Coaches": {
             "HomeCoach": "José Bordalás",
             "AwayCoach": "Claudio Giráldez"
         },
-        "Referee": ""
+        "Referee": "Alejandro\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -6389,14 +7320,19 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Antonio Sánchez",
+                "Vedat Muriqi"
+            ],
+            "AwayScored": [
+                "Álvaro García"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Javier Aguirre",
             "AwayCoach": "Iñigo Pérez"
         },
-        "Referee": ""
+        "Referee": "José Luis\n                                    Munuera"
     },
     {
         "League": "SP1",
@@ -6416,14 +7352,16 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Isaac Romero"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Quique Sánchez Flores",
             "AwayCoach": "Diego Simeone"
         },
-        "Referee": ""
+        "Referee": "Javier\n                                    Villanueva"
     },
     {
         "League": "SP1",
@@ -6443,14 +7381,22 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Lamine Yamal",
+                "Robert Lewandowski",
+                "Lamine Yamal"
+            ],
+            "AwayScored": [
+                "Ricard Sánchez",
+                "Facundo Pellistri",
+                "Ignasi Miquel"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Xavi",
             "AwayCoach": "José Ramón Sandoval"
         },
-        "Referee": ""
+        "Referee": "Miguel\n                                    Ángel Ortiz Arias"
     },
     {
         "League": "SP1",
@@ -6477,7 +7423,7 @@
             "HomeCoach": "Pepe Mel",
             "AwayCoach": "Ernesto Valverde"
         },
-        "Referee": ""
+        "Referee": "Víctor García"
     },
     {
         "League": "SP1",
@@ -6497,14 +7443,18 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Alberto Moreno"
+            ],
+            "AwayScored": [
+                "Nemanja Maksimović"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Marcelino",
             "AwayCoach": "José Bordalás"
         },
-        "Referee": ""
+        "Referee": "Javier Alberola"
     },
     {
         "League": "SP1",
@@ -6524,14 +7474,20 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Marcos Llorente",
+                "Marcos Llorente",
+                "Ángel Correa",
+                "Ángel Correa",
+                "Memphis"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Diego Simeone",
             "AwayCoach": "García Pimienta"
         },
-        "Referee": ""
+        "Referee": "Jorge Figueroa"
     },
     {
         "League": "SP1",
@@ -6551,14 +7507,17 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Ante Budimir",
+                "Ante Budimir"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Jagoba Arrasate",
             "AwayCoach": "Mauricio Pellegrino"
         },
-        "Referee": ""
+        "Referee": "Francisco\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -6578,14 +7537,19 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Iago Aspas"
+            ],
+            "AwayScored": [
+                "Robert Lewandowski",
+                "Robert Lewandowski"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Claudio Giráldez",
             "AwayCoach": "Xavi"
         },
-        "Referee": ""
+        "Referee": "Juan Pulido"
     },
     {
         "League": "SP1",
@@ -6612,7 +7576,7 @@
             "HomeCoach": "Rubén Baraja",
             "AwayCoach": "Quique Sánchez Flores"
         },
-        "Referee": ""
+        "Referee": "César Soto"
     },
     {
         "League": "SP1",
@@ -6632,14 +7596,18 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Raúl de Tomás"
+            ],
+            "AwayScored": [
+                "Joselu"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Iñigo Pérez",
             "AwayCoach": "Carlo Ancelotti"
         },
-        "Referee": ""
+        "Referee": "Alejandro Muñíz"
     },
     {
         "League": "SP1",
@@ -6659,14 +7627,18 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Myrto Uzuni"
+            ],
+            "AwayScored": [
+                "Marc Pubill"
+            ]
         },
         "Coaches": {
             "HomeCoach": "José Ramón Sandoval",
             "AwayCoach": "Pepe Mel"
         },
-        "Referee": ""
+        "Referee": "Jesús Gil"
     },
     {
         "League": "SP1",
@@ -6686,14 +7658,19 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Antonio Sánchez"
+            ],
+            "AwayScored": [
+                "Takefusa Kubo",
+                "Mikel Merino"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Javier Aguirre",
             "AwayCoach": "Imanol Alguacil"
         },
-        "Referee": ""
+        "Referee": "Pablo González"
     },
     {
         "League": "SP1",
@@ -6720,7 +7697,7 @@
             "HomeCoach": "Manuel Pellegrini",
             "AwayCoach": "Luis García"
         },
-        "Referee": ""
+        "Referee": "Mateo Busquets"
     },
     {
         "League": "SP1",
@@ -6740,14 +7717,21 @@
             "AwayShotsOnTarget": 6
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Álex Berenguer",
+                "Álex Berenguer",
+                "Iñaki Williams"
+            ],
+            "AwayScored": [
+                "Viktor Tsyhankov",
+                "Eric García"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Ernesto Valverde",
             "AwayCoach": "Míchel"
         },
-        "Referee": ""
+        "Referee": "José Sánchez"
     },
     {
         "League": "SP1",
@@ -6767,14 +7751,20 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Mikel Merino"
+            ],
+            "AwayScored": [
+                "Santi Comesaña",
+                "Santi Comesaña",
+                "Alexander Sørloth"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Imanol Alguacil",
             "AwayCoach": "Marcelino"
         },
-        "Referee": ""
+        "Referee": "Javier\n                                    Villanueva"
     },
     {
         "League": "SP1",
@@ -6794,14 +7784,19 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Raphinha",
+                "João Félix",
+                "Frenkie de Jong",
+                "Fermin López"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Xavi",
             "AwayCoach": "José Bordalás"
         },
-        "Referee": ""
+        "Referee": "Alejandro Muñíz"
     },
     {
         "League": "SP1",
@@ -6821,14 +7816,18 @@
             "AwayShotsOnTarget": 8
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Carlos Benavídez"
+            ],
+            "AwayScored": [
+                "Matija Nastasić"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Luis García",
             "AwayCoach": "Javier Aguirre"
         },
-        "Referee": ""
+        "Referee": "Víctor García"
     },
     {
         "League": "SP1",
@@ -6855,7 +7854,7 @@
             "HomeCoach": "Pepe Mel",
             "AwayCoach": "Diego Simeone"
         },
-        "Referee": ""
+        "Referee": "Javier Alberola"
     },
     {
         "League": "SP1",
@@ -6875,14 +7874,20 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Juanmi",
+                "Darwin Machís"
+            ],
+            "AwayScored": [
+                "Iago Aspas",
+                "Williot Swedberg"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Mauricio Pellegrino",
             "AwayCoach": "Claudio Giráldez"
         },
-        "Referee": ""
+        "Referee": "Miguel\n                                    Ángel Ortiz Arias"
     },
     {
         "League": "SP1",
@@ -6902,14 +7907,19 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Ezequiel Ávila",
+                "Johnny Cardoso"
+            ],
+            "AwayScored": [
+                "Gorka Guruzeta"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Manuel Pellegrini",
             "AwayCoach": "Ernesto Valverde"
         },
-        "Referee": ""
+        "Referee": "Guillermo Cuadra"
     },
     {
         "League": "SP1",
@@ -6929,14 +7939,18 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Kirian Rodríguez"
+            ],
+            "AwayScored": [
+                "Unai García"
+            ]
         },
         "Coaches": {
             "HomeCoach": "García Pimienta",
             "AwayCoach": "Jagoba Arrasate"
         },
-        "Referee": ""
+        "Referee": "José Luis\n                                    Munuera"
     },
     {
         "League": "SP1",
@@ -6956,14 +7970,16 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Luka Modrić"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Carlo Ancelotti",
             "AwayCoach": "Quique Sánchez Flores"
         },
-        "Referee": ""
+        "Referee": "Isidro Díaz de\n                                    Mera"
     },
     {
         "League": "SP1",
@@ -6990,7 +8006,7 @@
             "HomeCoach": "Míchel",
             "AwayCoach": "Iñigo Pérez"
         },
-        "Referee": ""
+        "Referee": "Ricardo de\n                                    Burgos"
     },
     {
         "League": "SP1",
@@ -7010,14 +8026,16 @@
             "AwayShotsOnTarget": 0
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Óscar Mingueza"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Claudio Giráldez",
             "AwayCoach": "Pepe Mel"
         },
-        "Referee": ""
+        "Referee": "José Sánchez"
     },
     {
         "League": "SP1",
@@ -7037,14 +8055,21 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Youssef En-Nesyri",
+                "Youssef En-Nesyri",
+                "Sergio Ramos"
+            ],
+            "AwayScored": [
+                "André Silva",
+                "Brais Méndez"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Quique Sánchez Flores",
             "AwayCoach": "Imanol Alguacil"
         },
-        "Referee": ""
+        "Referee": "Mateo Busquets"
     },
     {
         "League": "SP1",
@@ -7064,14 +8089,18 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Florian Lejeune"
+            ],
+            "AwayScored": [
+                "Javi Hernández"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Iñigo Pérez",
             "AwayCoach": "Mauricio Pellegrino"
         },
-        "Referee": ""
+        "Referee": "Javier Alberola"
     },
     {
         "League": "SP1",
@@ -7091,14 +8120,22 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Jaime Mata",
+                "Mason Greenwood",
+                "Nemanja Maksimović"
+            ],
+            "AwayScored": [
+                "Sandro Ramírez",
+                "Sergi Cardona",
+                "Munir El Haddadi"
+            ]
         },
         "Coaches": {
             "HomeCoach": "José Bordalás",
             "AwayCoach": "García Pimienta"
         },
-        "Referee": ""
+        "Referee": "Pablo González"
     },
     {
         "League": "SP1",
@@ -7118,14 +8155,20 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Hugo Duro",
+                "Roman Yaremchuk"
+            ],
+            "AwayScored": [
+                "Vinicius Júnior",
+                "Vinicius Júnior"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Rubén Baraja",
             "AwayCoach": "Carlo Ancelotti"
         },
-        "Referee": ""
+        "Referee": "Jesús Gil"
     },
     {
         "League": "SP1",
@@ -7145,14 +8188,22 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Alexander Sørloth",
+                "Alexander Sørloth",
+                "Étienne Capoue",
+                "Gonçalo Guedes",
+                "Alexander Sørloth"
+            ],
+            "AwayScored": [
+                "Theo Corbeanu"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Marcelino",
             "AwayCoach": "José Ramón Sandoval"
         },
-        "Referee": ""
+        "Referee": "Juan Pulido"
     },
     {
         "League": "SP1",
@@ -7172,14 +8223,18 @@
             "AwayShotsOnTarget": 6
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Álvaro Morata"
+            ],
+            "AwayScored": [
+                "William Carvalho"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Diego Simeone",
             "AwayCoach": "Manuel Pellegrini"
         },
-        "Referee": ""
+        "Referee": "César Soto"
     },
     {
         "League": "SP1",
@@ -7199,14 +8254,16 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Copete"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Javier Aguirre",
             "AwayCoach": "Míchel"
         },
-        "Referee": ""
+        "Referee": "Francisco\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -7233,7 +8290,7 @@
             "HomeCoach": "Ernesto Valverde",
             "AwayCoach": "Xavi"
         },
-        "Referee": ""
+        "Referee": "Alejandro\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -7253,14 +8310,16 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Ante Budimir"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Jagoba Arrasate",
             "AwayCoach": "Luis García"
         },
-        "Referee": ""
+        "Referee": "Jorge Figueroa"
     },
     {
         "League": "SP1",
@@ -7280,14 +8339,16 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Lamine Yamal"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Xavi",
             "AwayCoach": "Javier Aguirre"
         },
-        "Referee": ""
+        "Referee": "Javier\n                                    Villanueva"
     },
     {
         "League": "SP1",
@@ -7307,14 +8368,16 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Hugo Duro"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Rubén Baraja",
             "AwayCoach": "José Bordalás"
         },
-        "Referee": ""
+        "Referee": "Juan Pulido"
     },
     {
         "League": "SP1",
@@ -7334,14 +8397,17 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Juanmi",
+                "Juanmi"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Mauricio Pellegrino",
             "AwayCoach": "Diego Simeone"
         },
-        "Referee": ""
+        "Referee": "Pablo González"
     },
     {
         "League": "SP1",
@@ -7361,14 +8427,21 @@
             "AwayShotsOnTarget": 8
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Myrto Uzuni",
+                "Myrto Uzuni"
+            ],
+            "AwayScored": [
+                "Umar Sadiq",
+                "Robin Le Normand",
+                "André Silva"
+            ]
         },
         "Coaches": {
             "HomeCoach": "José Ramón Sandoval",
             "AwayCoach": "Imanol Alguacil"
         },
-        "Referee": ""
+        "Referee": "Juan Martínez"
     },
     {
         "League": "SP1",
@@ -7388,14 +8461,17 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Portu",
+                "Sávio"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Míchel",
             "AwayCoach": "Jagoba Arrasate"
         },
-        "Referee": ""
+        "Referee": "Mateo Busquets"
     },
     {
         "League": "SP1",
@@ -7415,14 +8491,16 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Andoni Gorosabel"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Luis García",
             "AwayCoach": "Iñigo Pérez"
         },
-        "Referee": ""
+        "Referee": "José Luis\n                                    Munuera"
     },
     {
         "League": "SP1",
@@ -7443,13 +8521,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Gorka Guruzeta"
+            ]
         },
         "Coaches": {
             "HomeCoach": "García Pimienta",
             "AwayCoach": "Ernesto Valverde"
         },
-        "Referee": ""
+        "Referee": "Miguel\n                                    Ángel Ortiz Arias"
     },
     {
         "League": "SP1",
@@ -7469,14 +8549,17 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Vinicius Júnior",
+                "Arda Güler"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Carlo Ancelotti",
             "AwayCoach": "Claudio Giráldez"
         },
-        "Referee": ""
+        "Referee": "Mario Melero"
     },
     {
         "League": "SP1",
@@ -7496,14 +8579,20 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Guido Rodríguez",
+                "Willian José"
+            ],
+            "AwayScored": [
+                "Alex Baena",
+                "Alexander Sørloth"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Manuel Pellegrini",
             "AwayCoach": "Marcelino"
         },
-        "Referee": ""
+        "Referee": "Alejandro\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -7523,14 +8612,20 @@
             "AwayShotsOnTarget": 6
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Adri Embarba",
+                "Marko Milovanović"
+            ],
+            "AwayScored": [
+                "Dodi Lukebakio",
+                "Lucas Ocampos"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Pepe Mel",
             "AwayCoach": "Quique Sánchez Flores"
         },
-        "Referee": ""
+        "Referee": "Ricardo de\n                                    Burgos"
     },
     {
         "League": "SP1",
@@ -7550,14 +8645,17 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Mikel Merino",
+                "Arsen Zakharyan"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Imanol Alguacil",
             "AwayCoach": "Mauricio Pellegrino"
         },
-        "Referee": ""
+        "Referee": "César Soto"
     },
     {
         "League": "SP1",
@@ -7577,14 +8675,16 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Antonio Raillo"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Javier Aguirre",
             "AwayCoach": "José Ramón Sandoval"
         },
-        "Referee": ""
+        "Referee": "Ricardo de\n                                    Burgos"
     },
     {
         "League": "SP1",
@@ -7604,14 +8704,22 @@
             "AwayShotsOnTarget": 9
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Ante Budimir",
+                "Iker Muñoz"
+            ],
+            "AwayScored": [
+                "Vinicius Júnior",
+                "Dani Carvajal",
+                "Brahim Díaz",
+                "Vinicius Júnior"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Jagoba Arrasate",
             "AwayCoach": "Carlo Ancelotti"
         },
-        "Referee": ""
+        "Referee": "Juan Martínez"
     },
     {
         "League": "SP1",
@@ -7631,14 +8739,16 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Yellu Santiago"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "José Bordalás",
             "AwayCoach": "Míchel"
         },
-        "Referee": ""
+        "Referee": "José Luis\n                                    Munuera"
     },
     {
         "League": "SP1",
@@ -7658,14 +8768,17 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Gorka Guruzeta",
+                "Gorka Guruzeta"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Ernesto Valverde",
             "AwayCoach": "Luis García"
         },
-        "Referee": ""
+        "Referee": "Alejandro Muñíz"
     },
     {
         "League": "SP1",
@@ -7685,14 +8798,19 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Youssef En-Nesyri"
+            ],
+            "AwayScored": [
+                "Carles Pérez",
+                "Jørgen Strand Larsen"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Quique Sánchez Flores",
             "AwayCoach": "Claudio Giráldez"
         },
-        "Referee": ""
+        "Referee": "Francisco\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -7713,13 +8831,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Léo Baptistão"
+            ]
         },
         "Coaches": {
             "HomeCoach": "García Pimienta",
             "AwayCoach": "Pepe Mel"
         },
-        "Referee": ""
+        "Referee": "Víctor García"
     },
     {
         "League": "SP1",
@@ -7739,14 +8859,16 @@
             "AwayShotsOnTarget": 7
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Jorge Cuenca"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Marcelino",
             "AwayCoach": "Rubén Baraja"
         },
-        "Referee": ""
+        "Referee": "Jorge Figueroa"
     },
     {
         "League": "SP1",
@@ -7766,14 +8888,17 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Florian Lejeune",
+                "Sergio Camello"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Iñigo Pérez",
             "AwayCoach": "Manuel Pellegrini"
         },
-        "Referee": ""
+        "Referee": "Juan Pulido"
     },
     {
         "League": "SP1",
@@ -7794,13 +8919,17 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "João Félix",
+                "Robert Lewandowski",
+                "Fermin López"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Diego Simeone",
             "AwayCoach": "Xavi"
         },
-        "Referee": ""
+        "Referee": "José Sánchez"
     },
     {
         "League": "SP1",
@@ -7820,14 +8949,16 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Roberto Navarro"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Mauricio Pellegrino",
             "AwayCoach": "José Ramón Sandoval"
         },
-        "Referee": ""
+        "Referee": "Guillermo Cuadra"
     },
     {
         "League": "SP1",
@@ -7848,13 +8979,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Sergio Ramos"
+            ]
         },
         "Coaches": {
             "HomeCoach": "José Bordalás",
             "AwayCoach": "Quique Sánchez Flores"
         },
-        "Referee": ""
+        "Referee": "Javier\n                                    Villanueva"
     },
     {
         "League": "SP1",
@@ -7875,13 +9008,17 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "José Arnaiz",
+                "Ante Budimir",
+                "Iker Muñoz"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Pepe Mel",
             "AwayCoach": "Jagoba Arrasate"
         },
-        "Referee": ""
+        "Referee": "Pablo González"
     },
     {
         "League": "SP1",
@@ -7908,7 +9045,7 @@
             "HomeCoach": "Rubén Baraja",
             "AwayCoach": "Javier Aguirre"
         },
-        "Referee": ""
+        "Referee": "Miguel\n                                    Ángel Ortiz Arias"
     },
     {
         "League": "SP1",
@@ -7928,14 +9065,16 @@
             "AwayShotsOnTarget": 0
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Raphinha"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Xavi",
             "AwayCoach": "García Pimienta"
         },
-        "Referee": ""
+        "Referee": "Mateo Busquets"
     },
     {
         "League": "SP1",
@@ -7962,7 +9101,7 @@
             "HomeCoach": "Claudio Giráldez",
             "AwayCoach": "Iñigo Pérez"
         },
-        "Referee": ""
+        "Referee": "Alejandro\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -7982,14 +9121,21 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Artem Dovbyk",
+                "Artem Dovbyk",
+                "Cristhian Stuani"
+            ],
+            "AwayScored": [
+                "Willian José",
+                "Willian José"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Míchel",
             "AwayCoach": "Manuel Pellegrini"
         },
-        "Referee": ""
+        "Referee": "Jesús Gil"
     },
     {
         "League": "SP1",
@@ -8010,13 +9156,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Jon Pacheco"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Luis García",
             "AwayCoach": "Imanol Alguacil"
         },
-        "Referee": ""
+        "Referee": "Francisco\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -8036,14 +9184,17 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Rodrygo",
+                "Rodrygo"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Carlo Ancelotti",
             "AwayCoach": "Ernesto Valverde"
         },
-        "Referee": ""
+        "Referee": "Javier Alberola"
     },
     {
         "League": "SP1",
@@ -8063,14 +9214,19 @@
             "AwayShotsOnTarget": 8
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Alexander Sørloth"
+            ],
+            "AwayScored": [
+                "Axel Witsel",
+                "Saúl Ñíguez"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Marcelino",
             "AwayCoach": "Diego Simeone"
         },
-        "Referee": ""
+        "Referee": "Mario Melero"
     },
     {
         "League": "SP1",
@@ -8091,13 +9247,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Domingos André Ribeiro Almeida"
+            ]
         },
         "Coaches": {
             "HomeCoach": "José Ramón Sandoval",
             "AwayCoach": "Rubén Baraja"
         },
-        "Referee": ""
+        "Referee": "Alejandro\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -8117,14 +9275,19 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Juan Miranda",
+                "Nabil Fekir"
+            ],
+            "AwayScored": [
+                "Jørgen Strand Larsen"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Manuel Pellegrini",
             "AwayCoach": "Claudio Giráldez"
         },
-        "Referee": ""
+        "Referee": "Juan Martínez"
     },
     {
         "League": "SP1",
@@ -8144,14 +9307,20 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Antoine Griezmann",
+                "Ángel Correa",
+                "Antoine Griezmann"
+            ],
+            "AwayScored": [
+                "Artem Dovbyk"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Diego Simeone",
             "AwayCoach": "Míchel"
         },
-        "Referee": ""
+        "Referee": "Ricardo de\n                                    Burgos"
     },
     {
         "League": "SP1",
@@ -8178,7 +9347,7 @@
             "HomeCoach": "Iñigo Pérez",
             "AwayCoach": "José Bordalás"
         },
-        "Referee": ""
+        "Referee": "Jorge Figueroa"
     },
     {
         "League": "SP1",
@@ -8199,13 +9368,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Aurélien Tchouaméni"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Javier Aguirre",
             "AwayCoach": "Carlo Ancelotti"
         },
-        "Referee": ""
+        "Referee": "José Sánchez"
     },
     {
         "League": "SP1",
@@ -8226,13 +9397,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "João Félix"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Mauricio Pellegrino",
             "AwayCoach": "Xavi"
         },
-        "Referee": ""
+        "Referee": "Juan Pulido"
     },
     {
         "League": "SP1",
@@ -8253,13 +9426,16 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Youssef En-Nesyri",
+                "Dodi Lukebakio"
+            ]
         },
         "Coaches": {
             "HomeCoach": "García Pimienta",
             "AwayCoach": "Quique Sánchez Flores"
         },
-        "Referee": ""
+        "Referee": "Alejandro Muñíz"
     },
     {
         "League": "SP1",
@@ -8279,14 +9455,17 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Myrto Uzuni",
+                "Lucas Boyé"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "José Ramón Sandoval",
             "AwayCoach": "Luis García"
         },
-        "Referee": ""
+        "Referee": "Víctor García"
     },
     {
         "League": "SP1",
@@ -8306,14 +9485,18 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Oihan Sancet"
+            ],
+            "AwayScored": [
+                "Daniel Parejo"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Ernesto Valverde",
             "AwayCoach": "Marcelino"
         },
-        "Referee": ""
+        "Referee": "Guillermo Cuadra"
     },
     {
         "League": "SP1",
@@ -8333,14 +9516,20 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Sheraldo Becker",
+                "Mikel Oyarzabal"
+            ],
+            "AwayScored": [
+                "Adri Embarba",
+                "Adri Embarba"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Imanol Alguacil",
             "AwayCoach": "Pepe Mel"
         },
-        "Referee": ""
+        "Referee": "Isidro Díaz de\n                                    Mera"
     },
     {
         "League": "SP1",
@@ -8361,13 +9550,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Domingos André Ribeiro Almeida"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Jagoba Arrasate",
             "AwayCoach": "Rubén Baraja"
         },
-        "Referee": ""
+        "Referee": "José Luis\n                                    Munuera"
     },
     {
         "League": "SP1",
@@ -8387,14 +9578,16 @@
             "AwayShotsOnTarget": 0
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Gorka Guruzeta"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Ernesto Valverde",
             "AwayCoach": "José Ramón Sandoval"
         },
-        "Referee": ""
+        "Referee": "Javier\n                                    Villanueva"
     },
     {
         "League": "SP1",
@@ -8414,14 +9607,21 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Iago Aspas",
+                "Williot Swedberg",
+                "Anastasios Douvikas",
+                "Iago Aspas"
+            ],
+            "AwayScored": [
+                "Juan Herzog"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Claudio Giráldez",
             "AwayCoach": "García Pimienta"
         },
-        "Referee": ""
+        "Referee": "Francisco\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -8441,14 +9641,19 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Pep Chavarría",
+                "Isaac Palazón Camacho"
+            ],
+            "AwayScored": [
+                "Moi Gómez"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Iñigo Pérez",
             "AwayCoach": "Jagoba Arrasate"
         },
-        "Referee": ""
+        "Referee": "Mario Melero"
     },
     {
         "League": "SP1",
@@ -8468,14 +9673,19 @@
             "AwayShotsOnTarget": 6
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "José Luis García Vayá"
+            ],
+            "AwayScored": [
+                "Ayoze Pérez",
+                "Ayoze Pérez"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Rubén Baraja",
             "AwayCoach": "Manuel Pellegrini"
         },
-        "Referee": ""
+        "Referee": "Mateo Busquets"
     },
     {
         "League": "SP1",
@@ -8495,14 +9705,21 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Eric García",
+                "Iván Martín",
+                "Artem Dovbyk",
+                "Portu"
+            ],
+            "AwayScored": [
+                "Gonzalo Escalante"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Míchel",
             "AwayCoach": "Mauricio Pellegrino"
         },
-        "Referee": ""
+        "Referee": "Javier Alberola"
     },
     {
         "League": "SP1",
@@ -8522,14 +9739,18 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Óscar Rodríguez Arnaiz"
+            ],
+            "AwayScored": [
+                "Ander Barrenetxea"
+            ]
         },
         "Coaches": {
             "HomeCoach": "José Bordalás",
             "AwayCoach": "Imanol Alguacil"
         },
-        "Referee": ""
+        "Referee": "Víctor García"
     },
     {
         "League": "SP1",
@@ -8549,14 +9770,19 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Anthony Lozano"
+            ],
+            "AwayScored": [
+                "Ilias Akhomach",
+                "Alexander Sørloth"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Pepe Mel",
             "AwayCoach": "Marcelino"
         },
-        "Referee": ""
+        "Referee": "Miguel\n                                    Ángel Ortiz Arias"
     },
     {
         "League": "SP1",
@@ -8576,14 +9802,17 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Carlos Benavídez",
+                "Luis Rioja"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Luis García",
             "AwayCoach": "Diego Simeone"
         },
-        "Referee": ""
+        "Referee": "Jesús Gil"
     },
     {
         "League": "SP1",
@@ -8603,14 +9832,21 @@
             "AwayShotsOnTarget": 6
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Vinicius Júnior",
+                "Lucas Vázquez",
+                "Jude Bellingham"
+            ],
+            "AwayScored": [
+                "Andreas Christensen",
+                "Fermin López"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Carlo Ancelotti",
             "AwayCoach": "Xavi"
         },
-        "Referee": ""
+        "Referee": "César Soto"
     },
     {
         "League": "SP1",
@@ -8630,14 +9866,19 @@
             "AwayShotsOnTarget": 6
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Youssef En-Nesyri",
+                "Isaac Romero"
+            ],
+            "AwayScored": [
+                "Abdón Prats"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Quique Sánchez Flores",
             "AwayCoach": "Javier Aguirre"
         },
-        "Referee": ""
+        "Referee": "Alejandro\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -8658,13 +9899,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Arda Güler"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Imanol Alguacil",
             "AwayCoach": "Carlo Ancelotti"
         },
-        "Referee": ""
+        "Referee": "José Luis\n                                    Munuera"
     },
     {
         "League": "SP1",
@@ -8685,13 +9928,16 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "David López",
+                "Artem Dovbyk"
+            ]
         },
         "Coaches": {
             "HomeCoach": "García Pimienta",
             "AwayCoach": "Míchel"
         },
-        "Referee": ""
+        "Referee": "Jorge Figueroa"
     },
     {
         "League": "SP1",
@@ -8711,14 +9957,20 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Anthony Lozano"
+            ],
+            "AwayScored": [
+                "Mason Greenwood",
+                "Mason Greenwood",
+                "Jaime Mata"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Pepe Mel",
             "AwayCoach": "José Bordalás"
         },
-        "Referee": ""
+        "Referee": "Guillermo Cuadra"
     },
     {
         "League": "SP1",
@@ -8738,14 +9990,18 @@
             "AwayShotsOnTarget": 0
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Giuliano Simeone",
+                "Jon Guridi",
+                "Carlos Benavídez"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Luis García",
             "AwayCoach": "Claudio Giráldez"
         },
-        "Referee": ""
+        "Referee": "Juan Pulido"
     },
     {
         "League": "SP1",
@@ -8765,14 +10021,19 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Rodrigo De Paul",
+                "Ángel Correa"
+            ],
+            "AwayScored": [
+                "Nico Williams"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Diego Simeone",
             "AwayCoach": "Ernesto Valverde"
         },
-        "Referee": ""
+        "Referee": "Juan Martínez"
     },
     {
         "League": "SP1",
@@ -8793,13 +10054,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Vedat Muriqi"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Mauricio Pellegrino",
             "AwayCoach": "Javier Aguirre"
         },
-        "Referee": ""
+        "Referee": "Isidro Díaz de\n                                    Mera"
     },
     {
         "League": "SP1",
@@ -8819,14 +10082,18 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Facundo Pellistri",
+                "Myrto Uzuni",
+                "Lucas Boyé"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "José Ramón Sandoval",
             "AwayCoach": "Jagoba Arrasate"
         },
-        "Referee": ""
+        "Referee": "Alejandro Muñíz"
     },
     {
         "League": "SP1",
@@ -8846,14 +10113,18 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Alexander Sørloth",
+                "Yerson Mosquera",
+                "Alexander Sørloth"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Marcelino",
             "AwayCoach": "Iñigo Pérez"
         },
-        "Referee": ""
+        "Referee": "Pablo González"
     },
     {
         "League": "SP1",
@@ -8873,14 +10144,18 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Isco"
+            ],
+            "AwayScored": [
+                "Kike Salas"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Manuel Pellegrini",
             "AwayCoach": "Quique Sánchez Flores"
         },
-        "Referee": ""
+        "Referee": "José Sánchez"
     },
     {
         "League": "SP1",
@@ -8900,14 +10175,22 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Fermin López",
+                "Robert Lewandowski",
+                "Robert Lewandowski",
+                "Robert Lewandowski"
+            ],
+            "AwayScored": [
+                "Hugo Duro",
+                "José Luis García Vayá"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Xavi",
             "AwayCoach": "Rubén Baraja"
         },
-        "Referee": ""
+        "Referee": "Ricardo de\n                                    Burgos"
     },
     {
         "League": "SP1",
@@ -8928,13 +10211,16 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Iñaki Williams",
+                "Iñaki Williams"
+            ]
         },
         "Coaches": {
             "HomeCoach": "José Bordalás",
             "AwayCoach": "Ernesto Valverde"
         },
-        "Referee": ""
+        "Referee": "Jesús Gil"
     },
     {
         "League": "SP1",
@@ -8954,14 +10240,16 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Sheraldo Becker"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Imanol Alguacil",
             "AwayCoach": "García Pimienta"
         },
-        "Referee": ""
+        "Referee": "Miguel\n                                    Ángel Ortiz Arias"
     },
     {
         "League": "SP1",
@@ -8981,14 +10269,18 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Brahim Díaz",
+                "Jude Bellingham",
+                "Joselu"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Carlo Ancelotti",
             "AwayCoach": "Mauricio Pellegrino"
         },
-        "Referee": ""
+        "Referee": "Javier\n                                    Villanueva"
     },
     {
         "League": "SP1",
@@ -9008,14 +10300,22 @@
             "AwayShotsOnTarget": 7
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Artem Dovbyk",
+                "Portu",
+                "Miguel Gutiérrez",
+                "Portu"
+            ],
+            "AwayScored": [
+                "Andreas Christensen",
+                "Robert Lewandowski"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Míchel",
             "AwayCoach": "Xavi"
         },
-        "Referee": ""
+        "Referee": "Alejandro\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -9036,13 +10336,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Rodrigo Riquelme"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Javier Aguirre",
             "AwayCoach": "Diego Simeone"
         },
-        "Referee": ""
+        "Referee": "Javier Alberola"
     },
     {
         "League": "SP1",
@@ -9063,13 +10365,16 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Ayoze Pérez",
+                "Pablo Fornals"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Jagoba Arrasate",
             "AwayCoach": "Manuel Pellegrini"
         },
-        "Referee": ""
+        "Referee": "Víctor García"
     },
     {
         "League": "SP1",
@@ -9089,14 +10394,21 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Iago Aspas",
+                "Jørgen Strand Larsen",
+                "Anastasios Douvikas"
+            ],
+            "AwayScored": [
+                "Alberto Moreno",
+                "Gonçalo Guedes"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Claudio Giráldez",
             "AwayCoach": "Marcelino"
         },
-        "Referee": ""
+        "Referee": "César Soto"
     },
     {
         "League": "SP1",
@@ -9117,13 +10429,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Javi López"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Rubén Baraja",
             "AwayCoach": "Luis García"
         },
-        "Referee": ""
+        "Referee": "Mario Melero"
     },
     {
         "League": "SP1",
@@ -9143,14 +10457,18 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Marcos Acuña",
+                "Youssef En-Nesyri",
+                "Dodi Lukebakio"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Quique Sánchez Flores",
             "AwayCoach": "José Ramón Sandoval"
         },
-        "Referee": ""
+        "Referee": "Mateo Busquets"
     },
     {
         "League": "SP1",
@@ -9171,13 +10489,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Anthony Lozano"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Iñigo Pérez",
             "AwayCoach": "Pepe Mel"
         },
-        "Referee": ""
+        "Referee": "Francisco\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -9197,14 +10517,20 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Jon Guridi",
+                "Jon Guridi"
+            ],
+            "AwayScored": [
+                "Eric García",
+                "Yangel Herrera"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Luis García",
             "AwayCoach": "Míchel"
         },
-        "Referee": ""
+        "Referee": "José Luis\n                                    Munuera"
     },
     {
         "League": "SP1",
@@ -9224,14 +10550,16 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Giovanni González"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Javier Aguirre",
             "AwayCoach": "García Pimienta"
         },
-        "Referee": ""
+        "Referee": "Juan Martínez"
     },
     {
         "League": "SP1",
@@ -9251,14 +10579,21 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Alexander Sørloth",
+                "Yerson Mosquera",
+                "Alexander Sørloth"
+            ],
+            "AwayScored": [
+                "Youssef En-Nesyri",
+                "Youssef En-Nesyri"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Marcelino",
             "AwayCoach": "Quique Sánchez Flores"
         },
-        "Referee": ""
+        "Referee": "Isidro Díaz de\n                                    Mera"
     },
     {
         "League": "SP1",
@@ -9279,13 +10614,18 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Fran Garcia",
+                "Arda Güler",
+                "Brahim Díaz",
+                "Brahim Díaz"
+            ]
         },
         "Coaches": {
             "HomeCoach": "José Ramón Sandoval",
             "AwayCoach": "Carlo Ancelotti"
         },
-        "Referee": ""
+        "Referee": "Pablo González"
     },
     {
         "League": "SP1",
@@ -9305,14 +10645,20 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Iñaki Williams",
+                "Asier Villalibre"
+            ],
+            "AwayScored": [
+                "Raúl",
+                "Rubén García"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Ernesto Valverde",
             "AwayCoach": "Jagoba Arrasate"
         },
-        "Referee": ""
+        "Referee": "José Sánchez"
     },
     {
         "League": "SP1",
@@ -9332,14 +10678,16 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Rubén Alcaraz"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Mauricio Pellegrino",
             "AwayCoach": "José Bordalás"
         },
-        "Referee": ""
+        "Referee": "Ricardo de\n                                    Burgos"
     },
     {
         "League": "SP1",
@@ -9359,14 +10707,16 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Rodrigo De Paul"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Diego Simeone",
             "AwayCoach": "Claudio Giráldez"
         },
-        "Referee": ""
+        "Referee": "Jorge Figueroa"
     },
     {
         "League": "SP1",
@@ -9393,7 +10743,7 @@
             "HomeCoach": "Rubén Baraja",
             "AwayCoach": "Iñigo Pérez"
         },
-        "Referee": ""
+        "Referee": "Juan Pulido"
     },
     {
         "League": "SP1",
@@ -9413,14 +10763,21 @@
             "AwayShotsOnTarget": 7
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Pablo Fornals",
+                "Isco",
+                "Ayoze Pérez"
+            ],
+            "AwayScored": [
+                "Léo Baptistão",
+                "Luka Romero"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Manuel Pellegrini",
             "AwayCoach": "Pepe Mel"
         },
-        "Referee": ""
+        "Referee": "Alejandro Muñíz"
     },
     {
         "League": "SP1",
@@ -9440,14 +10797,17 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Lamine Yamal",
+                "Raphinha"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Xavi",
             "AwayCoach": "Imanol Alguacil"
         },
-        "Referee": ""
+        "Referee": "Guillermo Cuadra"
     },
     {
         "League": "SP1",
@@ -9467,14 +10827,18 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Jon Moncayola"
+            ],
+            "AwayScored": [
+                "Sergi Darder"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Jagoba Arrasate",
             "AwayCoach": "Javier Aguirre"
         },
-        "Referee": ""
+        "Referee": "Francisco\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -9494,14 +10858,20 @@
             "AwayShotsOnTarget": 10
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Jude Bellingham",
+                "Vinicius Júnior",
+                "Federico Valverde",
+                "Vinicius Júnior",
+                "Arda Güler"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Carlo Ancelotti",
             "AwayCoach": "Luis García"
         },
-        "Referee": ""
+        "Referee": "Mateo Busquets"
     },
     {
         "League": "SP1",
@@ -9522,13 +10892,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Bertrand Traoré"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Míchel",
             "AwayCoach": "Marcelino"
         },
-        "Referee": ""
+        "Referee": "José Sánchez"
     },
     {
         "League": "SP1",
@@ -9549,13 +10921,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Sergi Guardiola"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Quique Sánchez Flores",
             "AwayCoach": "Mauricio Pellegrino"
         },
-        "Referee": ""
+        "Referee": "Miguel\n                                    Ángel Ortiz Arias"
     },
     {
         "League": "SP1",
@@ -9575,14 +10949,19 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Florian Lejeune",
+                "Jorge de Frutos"
+            ],
+            "AwayScored": [
+                "Lucas Boyé"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Iñigo Pérez",
             "AwayCoach": "José Ramón Sandoval"
         },
-        "Referee": ""
+        "Referee": "Isidro Díaz de\n                                    Mera"
     },
     {
         "League": "SP1",
@@ -9602,14 +10981,19 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Williot Swedberg",
+                "Hugo Álvarez"
+            ],
+            "AwayScored": [
+                "Álex Berenguer"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Claudio Giráldez",
             "AwayCoach": "Ernesto Valverde"
         },
-        "Referee": ""
+        "Referee": "Víctor García"
     },
     {
         "League": "SP1",
@@ -9630,13 +11014,17 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Antoine Griezmann",
+                "Antoine Griezmann",
+                "Antoine Griezmann"
+            ]
         },
         "Coaches": {
             "HomeCoach": "José Bordalás",
             "AwayCoach": "Diego Simeone"
         },
-        "Referee": ""
+        "Referee": "Mario Melero"
     },
     {
         "League": "SP1",
@@ -9656,14 +11044,19 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Álex Suárez",
+                "Alberto Moleiro"
+            ],
+            "AwayScored": [
+                "Ayoze Pérez"
+            ]
         },
         "Coaches": {
             "HomeCoach": "García Pimienta",
             "AwayCoach": "Manuel Pellegrini"
         },
-        "Referee": ""
+        "Referee": "Javier\n                                    Villanueva"
     },
     {
         "League": "SP1",
@@ -9684,13 +11077,16 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Fermin López",
+                "Fermin López"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Pepe Mel",
             "AwayCoach": "Xavi"
         },
-        "Referee": ""
+        "Referee": "Javier Alberola"
     },
     {
         "League": "SP1",
@@ -9710,14 +11106,16 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "André Silva"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Imanol Alguacil",
             "AwayCoach": "Rubén Baraja"
         },
-        "Referee": ""
+        "Referee": "César Soto"
     },
     {
         "League": "SP1",
@@ -9737,14 +11135,16 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Carlos Vicente"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Luis García",
             "AwayCoach": "José Bordalás"
         },
-        "Referee": ""
+        "Referee": "Jorge Figueroa"
     },
     {
         "League": "SP1",
@@ -9764,14 +11164,17 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Raúl García",
+                "Iker Muniain"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Ernesto Valverde",
             "AwayCoach": "Quique Sánchez Flores"
         },
-        "Referee": ""
+        "Referee": "Juan Pulido"
     },
     {
         "League": "SP1",
@@ -9798,7 +11201,7 @@
             "HomeCoach": "Diego Simeone",
             "AwayCoach": "Jagoba Arrasate"
         },
-        "Referee": ""
+        "Referee": "Pablo González"
     },
     {
         "League": "SP1",
@@ -9818,14 +11221,18 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Robert Lewandowski",
+                "Pedri",
+                "Pedri"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Xavi",
             "AwayCoach": "Iñigo Pérez"
         },
-        "Referee": ""
+        "Referee": "Jesús Gil"
     },
     {
         "League": "SP1",
@@ -9846,13 +11253,16 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Brais Méndez",
+                "Mikel Merino"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Manuel Pellegrini",
             "AwayCoach": "Imanol Alguacil"
         },
-        "Referee": ""
+        "Referee": "Juan Martínez"
     },
     {
         "League": "SP1",
@@ -9879,7 +11289,7 @@
             "HomeCoach": "Mauricio Pellegrino",
             "AwayCoach": "García Pimienta"
         },
-        "Referee": ""
+        "Referee": "César Soto"
     },
     {
         "League": "SP1",
@@ -9899,14 +11309,19 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Bruno Méndez"
+            ],
+            "AwayScored": [
+                "Jørgen Strand Larsen",
+                "Jonathan Bamba"
+            ]
         },
         "Coaches": {
             "HomeCoach": "José Ramón Sandoval",
             "AwayCoach": "Claudio Giráldez"
         },
-        "Referee": ""
+        "Referee": "Javier Alberola"
     },
     {
         "League": "SP1",
@@ -9926,14 +11341,20 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Cyle Larin",
+                "Sergi Darder"
+            ],
+            "AwayScored": [
+                "Sergio Arribas",
+                "Bruno Langa"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Javier Aguirre",
             "AwayCoach": "Pepe Mel"
         },
-        "Referee": ""
+        "Referee": "Ricardo de\n                                    Burgos"
     },
     {
         "League": "SP1",
@@ -9953,14 +11374,19 @@
             "AwayShotsOnTarget": 5
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "José Luis García Vayá"
+            ],
+            "AwayScored": [
+                "Sávio",
+                "Artem Dovbyk"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Rubén Baraja",
             "AwayCoach": "Míchel"
         },
-        "Referee": ""
+        "Referee": "Guillermo Cuadra"
     },
     {
         "League": "SP1",
@@ -9980,14 +11406,24 @@
             "AwayShotsOnTarget": 6
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Alexander Sørloth",
+                "Alexander Sørloth",
+                "Alexander Sørloth",
+                "Alexander Sørloth"
+            ],
+            "AwayScored": [
+                "Arda Güler",
+                "Joselu",
+                "Lucas Vázquez",
+                "Arda Güler"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Marcelino",
             "AwayCoach": "Carlo Ancelotti"
         },
-        "Referee": ""
+        "Referee": "Alejandro\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -10007,14 +11443,22 @@
             "AwayShotsOnTarget": 2
         },
         "Scorers": {
-            "HomeScored": [],
+            "HomeScored": [
+                "Eric García",
+                "Viktor Tsyhankov",
+                "Artem Dovbyk",
+                "Viktor Tsyhankov",
+                "Artem Dovbyk",
+                "Cristhian Stuani",
+                "Artem Dovbyk"
+            ],
             "AwayScored": []
         },
         "Coaches": {
             "HomeCoach": "Míchel",
             "AwayCoach": "José Ramón Sandoval"
         },
-        "Referee": ""
+        "Referee": "Alejandro Muñíz"
     },
     {
         "League": "SP1",
@@ -10034,14 +11478,18 @@
             "AwayShotsOnTarget": 3
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Ante Budimir"
+            ],
+            "AwayScored": [
+                "José Luis Morales"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Jagoba Arrasate",
             "AwayCoach": "Marcelino"
         },
-        "Referee": ""
+        "Referee": "Mario Melero"
     },
     {
         "League": "SP1",
@@ -10062,13 +11510,16 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Samuel Lino",
+                "Reinildo Mandava"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Imanol Alguacil",
             "AwayCoach": "Diego Simeone"
         },
-        "Referee": ""
+        "Referee": "José Sánchez"
     },
     {
         "League": "SP1",
@@ -10088,14 +11539,22 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Gonzalo Melero",
+                "Sergio Arribas",
+                "Luis Javier Suárez",
+                "Luis Javier Suárez",
+                "Sergio Arribas"
+            ],
+            "AwayScored": [
+                "Brian Ocampo"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Pepe Mel",
             "AwayCoach": "Mauricio Pellegrino"
         },
-        "Referee": ""
+        "Referee": "Mateo Busquets"
     },
     {
         "League": "SP1",
@@ -10116,13 +11575,15 @@
         },
         "Scorers": {
             "HomeScored": [],
-            "AwayScored": []
+            "AwayScored": [
+                "Nico Williams"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Iñigo Pérez",
             "AwayCoach": "Ernesto Valverde"
         },
-        "Referee": ""
+        "Referee": "José Luis\n                                    Munuera"
     },
     {
         "League": "SP1",
@@ -10149,7 +11610,7 @@
             "HomeCoach": "Carlo Ancelotti",
             "AwayCoach": "Manuel Pellegrini"
         },
-        "Referee": ""
+        "Referee": "Isidro Díaz de\n                                    Mera"
     },
     {
         "League": "SP1",
@@ -10169,14 +11630,19 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Gastón Álvarez"
+            ],
+            "AwayScored": [
+                "Vedat Muriqi",
+                "Pablo Maffeo"
+            ]
         },
         "Coaches": {
             "HomeCoach": "José Bordalás",
             "AwayCoach": "Javier Aguirre"
         },
-        "Referee": ""
+        "Referee": "Víctor García"
     },
     {
         "League": "SP1",
@@ -10196,14 +11662,19 @@
             "AwayShotsOnTarget": 1
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Iago Aspas",
+                "Anastasios Douvikas"
+            ],
+            "AwayScored": [
+                "Alberto Marí"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Claudio Giráldez",
             "AwayCoach": "Rubén Baraja"
         },
-        "Referee": ""
+        "Referee": "Miguel\n                                    Ángel Ortiz Arias"
     },
     {
         "League": "SP1",
@@ -10223,14 +11694,18 @@
             "AwayShotsOnTarget": 4
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Marc Cardona"
+            ],
+            "AwayScored": [
+                "Carlos Vicente"
+            ]
         },
         "Coaches": {
             "HomeCoach": "García Pimienta",
             "AwayCoach": "Luis García"
         },
-        "Referee": ""
+        "Referee": "Francisco\n                                    Hernández"
     },
     {
         "League": "SP1",
@@ -10250,13 +11725,18 @@
             "AwayShotsOnTarget": 6
         },
         "Scorers": {
-            "HomeScored": [],
-            "AwayScored": []
+            "HomeScored": [
+                "Youssef En-Nesyri"
+            ],
+            "AwayScored": [
+                "Robert Lewandowski",
+                "Fermin López"
+            ]
         },
         "Coaches": {
             "HomeCoach": "Quique Sánchez Flores",
             "AwayCoach": "Xavi"
         },
-        "Referee": ""
+        "Referee": "Javier\n                                    Villanueva"
     }
 ]

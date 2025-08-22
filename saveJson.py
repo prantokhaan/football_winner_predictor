@@ -2,8 +2,8 @@ import csv
 import json
 
 # Input and output file names
-csv_file = "./matches_formatted_with_coaches.csv"
-json_file = "23_24_laliga.json"
+csv_file = "./22_23_laliga.csv"
+json_file = "22_23_laliga.json"
 
 matches = []
 with open(csv_file, newline='', encoding='utf-8') as f:

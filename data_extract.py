@@ -26,14 +26,15 @@ df['Season'] = "2024-25"
 # Map coaches
 coaches = {
     "Alaves": "Luis García",
-    "Almeria": "Pepe Mel",
+    "Almeria": "Rubi",
     "Ath Bilbao": "Ernesto Valverde",
     "Ath Madrid": "Diego Simeone",
     "Barcelona": "Xavi",
     "Betis": "Manuel Pellegrini",
-    "Cadiz": "Mauricio Pellegrino",
-    "Celta": "Claudio Giráldez",
-    "Espanol": "Manolo González",
+    "Cadiz": "Sergio",
+    "Celta": "Carlos Carvalhal",
+    "Elche": "Sebastián Beccacece",
+    "Espanol": "Luis García",
     "Getafe": "José Bordalás",
     "Girona": "Míchel",
     "Granada": "José Ramón Sandoval",
@@ -42,12 +43,12 @@ coaches = {
     "Mallorca": "Javier Aguirre",
     "Osasuna": "Jagoba Arrasate",
     "Real Madrid": "Carlo Ancelotti",
-    "Sevilla": "Quique Sánchez Flores",
+    "Sevilla": "Diego Alonso",
     "Sociedad": "Imanol Alguacil",
     "Valencia": "Rubén Baraja",
-    "Vallecano": "Iñigo Pérez",
-    "Valladolid": "Álvaro Rubio",
-    "Villarreal": "Marcelino"
+    "Vallecano": "Andoni Iraola",
+    "Valladolid": "Paulo Pezzolano",
+    "Villarreal": "Quique Setién"
 }
 
 
